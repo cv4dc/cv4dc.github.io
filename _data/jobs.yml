@@ -1,0 +1,17 @@
+2024:
+  - company:
+    name: Google
+    jobs:
+    - title: Multiple Positions
+      location: Multiple Locations
+      url: https://careers.google.com/
+    - title: Multiple Positions
+      location: Multiple Locations
+      url: https://careers.google.com/
+
+  - company:
+    name: NAVER LABS Europe
+    jobs:
+      - title: Research scientist
+        location: Grenoble, France
+        url: https://europe.naverlabs.com/job/

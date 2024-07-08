@@ -1,0 +1,13 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.cv4dc.current-year %}
+{% endif %}
+
+<footer class="footer">
+	<div class="container">
+    <span class="text-muted">&copy; CV4DC {{year}} </span>
+
+    <!-- <span class="text-muted"> &nbsp;&nbsp;&nbsp;&nbsp; Twitter: <a href="https://twitter.com/hashtag/cv4dc{{year}}">#cv4dc{{year}}</a> </span> -->
+	</div>
+</footer>

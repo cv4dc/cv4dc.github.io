@@ -5,7 +5,7 @@ title: Computer Vision for Developing Countries (CV4DC) Workshop 2024
 year: 2024
 banner-image: img/2024/hanoi.jpg
 banner-title: Welcome to CV4DC 2024
-header-image: img/2024/cv4dc2024_banner.png
+header-image: img/2024/accv_banner.png
 background: ADD0B3
 favicon: "img/2024/cv4dc_icon.png"
 ---

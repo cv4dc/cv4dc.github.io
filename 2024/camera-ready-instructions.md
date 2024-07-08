@@ -7,7 +7,7 @@ sub-deadline: September 1 2022
 ---
 
 Please read these instructions carefully and follow them to minimize delays with the finalization of the conference proceedings.
-If you have questions about the camera-ready, please contact the <a href="mailto:CV4DC24-publication@googlegroups.com">publication chair</a>. 
+If you have questions about the camera-ready, please contact the <a href="mailto:cv4dc@googlegroups.com">publication chair</a>. 
 
 Please note that deadlines will not be extended, and papers received after the deadline <i>will not appear</i> in the conference proceedings.
 

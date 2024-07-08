@@ -6,12 +6,12 @@ previous-years:
   title: "<b>Computer Vision for Developing Countries (CV4DC) Workshop</b>"
   date: "08 December 2024"
   location: "Hanoi, Vietnam"
-  conf-acro: cv4dc24
+  conf-acro: CV4DC24
   favicon: "img/2024/cv4dc_icon.png"
   header-image: "img/2024/cv4dc2024_banner.png"
   # header-image-credit: Keete 37, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
   # header-image-creditlink: https://commons.wikimedia.org/wiki/File:Praha_skyline.png
-  background: FF9900
+  background: FFFFFF
 
   program:
    - name: Tutorials

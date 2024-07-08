@@ -2,79 +2,97 @@
  - section:
    name: Platinum Partners
    company:
-    - name: abc
-      logo: img/2024/sponsors/abc_logo.png
-      url: https://www.abc.com/
+    - name: ACCV 2024
+      logo: img/2024/sponsors/accv24.png
+      url: https://accv2024.org/
       height: 25em
       width: 48%
       mdsize: 8
-    - name: xyz
-      logo: img/2024/sponsors/xyz_logo.png
-      url: https://www.xyz.com/
+    - name: ACCV 2024
+      logo: img/2024/sponsors/accv24.png
+      url: https://accv2024.org/
       height: 25em
       width: 48%
       mdsize: 8
+    - name: ACCV 2024
+      logo: img/2024/sponsors/accv24.png
+      url: https://accv2024.org/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: ACCV 2024
+      logo: img/2024/sponsors/accv24.png
+      url: https://accv2024.org/
+      height: 25em
+      width: 48%
+      mdsize: 8
+#     - name: xyz
+#       logo: img/2024/sponsors/xyz_logo.png
+#       url: https://www.xyz.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
 
- - section:
-   name: Silver Partner
-   company:
-    - name: abc
-      logo: img/2024/sponsors/abc_logo.png
-      url: https://www.abc.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
-    - name: xyz
-      logo: img/2024/sponsors/xyz_logo.png
-      url: https://www.xyz.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
+#  - section:
+#    name: Silver Partner
+#    company:
+#     - name: abc
+#       logo: img/2024/sponsors/abc_logo.png
+#       url: https://www.abc.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
+#     - name: xyz
+#       logo: img/2024/sponsors/xyz_logo.png
+#       url: https://www.xyz.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
 
- - section:
-   name: Bronze Partner
-   company:
-    - name: abc
-      logo: img/2024/sponsors/abc_logo.png
-      url: https://www.abc.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
-    - name: xyz
-      logo: img/2024/sponsors/xyz_logo.png
-      url: https://www.xyz.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
+#  - section:
+#    name: Bronze Partner
+#    company:
+#     - name: abc
+#       logo: img/2024/sponsors/abc_logo.png
+#       url: https://www.abc.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
+#     - name: xyz
+#       logo: img/2024/sponsors/xyz_logo.png
+#       url: https://www.xyz.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
 
- - section:
-   name: Bronze Partner & Best Paper Award Sponsor
-   company:
-    - name: abc
-      logo: img/2024/sponsors/abc_logo.png
-      url: https://www.abc.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
-    - name: xyz
-      logo: img/2024/sponsors/xyz_logo.png
-      url: https://www.xyz.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
+#  - section:
+#    name: Bronze Partner & Best Paper Award Sponsor
+#    company:
+#     - name: abc
+#       logo: img/2024/sponsors/abc_logo.png
+#       url: https://www.abc.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
+#     - name: xyz
+#       logo: img/2024/sponsors/xyz_logo.png
+#       url: https://www.xyz.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
 
- - section:
-   name: Startup Partner & Best Student Paper Award Sponsor
-   company:
-    - name: abc
-      logo: img/2024/sponsors/abc_logo.png
-      url: https://www.abc.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
-    - name: xyz
-      logo: img/2024/sponsors/xyz_logo.png
-      url: https://www.xyz.com/
-      height: 25em
-      width: 48%
-      mdsize: 8
+#  - section:
+#    name: Startup Partner & Best Student Paper Award Sponsor
+#    company:
+#     - name: abc
+#       logo: img/2024/sponsors/abc_logo.png
+#       url: https://www.abc.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8
+#     - name: xyz
+#       logo: img/2024/sponsors/xyz_logo.png
+#       url: https://www.xyz.com/
+#       height: 25em
+#       width: 48%
+#       mdsize: 8

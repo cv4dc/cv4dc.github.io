@@ -17,13 +17,13 @@
    url: https://www.saikit.org/ 
    order: 2
    index: 2
- - name: "Xavier Bresson"
-   title: "TBA"
-   abstract: "TBA"
-   bio: "Xavier Bresson is an Associate Professor in the Department of Computer Science at the National University of Singapore (NUS). He received his Ph.D. degree from EPFL, Lausanne, Switzerland, in 2005. His research focuses on Graph Deep Learning, a new framework that combines graph theory and neural networks to tackle complex data domains. In 2017, he received the USD 2M NRF Fellowship, the largest individual grant in Singapore, to develop this new framework. He was also awarded several research grants in the U.S. and Hong Kong. He co-authored one of the most cited works in this domain (10th most cited paper at NeurIPS) and has significantly contributed to mature these emerging techniques. He has organized several conferences, workshops, and tutorials on graph deep learning."
-   prez: In Person
-   image: img/2024/people/xavier.png
-   url: https://www.comp.nus.edu.sg/cs/people/xaviercs/ 
-   order: 3
-   index: 3
+#  - name: "Xavier Bresson"
+#    title: "TBA"
+#    abstract: "TBA"
+#    bio: "Xavier Bresson is an Associate Professor in the Department of Computer Science at the National University of Singapore (NUS). He received his Ph.D. degree from EPFL, Lausanne, Switzerland, in 2005. His research focuses on Graph Deep Learning, a new framework that combines graph theory and neural networks to tackle complex data domains. In 2017, he received the USD 2M NRF Fellowship, the largest individual grant in Singapore, to develop this new framework. He was also awarded several research grants in the U.S. and Hong Kong. He co-authored one of the most cited works in this domain (10th most cited paper at NeurIPS) and has significantly contributed to mature these emerging techniques. He has organized several conferences, workshops, and tutorials on graph deep learning."
+#    prez: In Person
+#    image: img/2024/people/xavier.png
+#    url: https://www.comp.nus.edu.sg/cs/people/xaviercs/ 
+#    order: 3
+#    index: 3
   

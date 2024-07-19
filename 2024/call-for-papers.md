@@ -4,7 +4,7 @@ title: Call for Papers
 year: 2024
 ---
 
-We invite students and researchers from developing countries, regardless of their current location, to submit their work to the Computer Vision for Developing Countries (CV4DC) workshop. We are interested in new ideas, ongoing research, as well as work that has been previously published or is under consideration elsewhere.
+We invite students and researchers from developing countries, regardless of their current location, to submit their work to the Computer Vision for Developing Countries (CV4DC) workshop. We are interested in new ideas, ongoing research, as well as work that has been previously published whithin 1 year or is under consideration elsewhere.
 
 Submissions can include both innovative algorithms and practical applications. While the presenting author does not need to be the first author, we encourage highlighting contributions from researchers in developing countries, particularly the presenting author, in the abstract. Although the workshop primarily aims to showcase researchers from developing countries, participation is open to all.
 
@@ -45,9 +45,9 @@ We invite submissions on a wide range of topics in computer vision and pattern r
 
 We accept the following types of submissions:
 
-Extended Abstracts: Up to seven (7) pages excluding references. These can cover work in progress, preliminary research, already published studies, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
+Extended Abstracts: Submissions should be between four (4) and seven (7) pages, excluding references. These can cover work in progress, preliminary research, studies published within 1 year, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
 
-Full Length Papers: Up to fourteen (14) pages excluding references. These can cover work in progress, already published studies, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
+Full Length Papers: Up to fourteen (14) pages excluding references. These can cover work in progress, studies published within 1 year, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
 
 **Submission Guidelines**
 
@@ -55,25 +55,25 @@ All submissions must adhere to the guidelines provided by the ACCV 2024 Author K
 
 Authors of accepted submissions will be required to present their work during a poster session. A select few will be invited to deliver a 10-15 minute oral presentation.
 
-Submission page: [Open Review Link]
+Submission page: [OpenReview](https://openreview.net/group?id=ACCV/2024/Workshop/CV4DC)
 
 **Important Dates**
 
 Please adhere to the submission deadlines and other key dates outlined below. Note that extensions will not be granted.
-- September 30, 2024 : Paper submission deadline.
-- October 15, 2024 : Acceptance Notification
-- December 8, 2024 : Workshop & Mentoring event
-All submission deadlines are AoE (Anywhere on Earth). 
+- September 24, 2024 : Paper submission deadline.
+- October 08, 2024 : Acceptance Notification
+- December 08, 2024 : Workshop & Mentoring event
+All submission deadlines are **23:59 Pacific Time (PT)**. 
 
 **Attendance Awards**
+<!-- We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights, accommodations, and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
+Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications. -->
 
-We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights, accommodations, and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
-
-Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications.
+Details on attendance awards will be provided soon. Stay tuned for updates!
 
 **Registration Instructions**
 
-As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: https://accv2024.org/registration/ 
+As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: [ACCV Registration](https://accv2024.org/registration/) 
 
 **Presentation Instructions**
 

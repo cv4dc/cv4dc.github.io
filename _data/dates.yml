@@ -4,28 +4,28 @@ previous-years:
  
 2024:
  - name: Paper Submission
-   date: September 30, 2024
-   countdown: 2024/09/30 22:59:59 AoE
+   date: September 24, 2024
+   countdown: 2024/09/24 22:59:59 PT
    enabled: true
  - name: Acceptance Notification
-   date: October 15, 2024
-   countdown: 2024/11/15 22:59:59 AoE
+   date: October 08, 2024
+   countdown: 2024/10/08 22:59:59 PT
    enabled: true
  - name: Workshop & Mentoring event
    date: December 08, 2024
-   countdown: 2024/12/08 22:59:59 AoE
+   countdown: 2024/12/08 22:59:59 PT
    enabled: true
 
 2024:
  - name: Paper Submission
-   date: September 30, 2024
-   countdown: 2024/09/30 22:59:59 AoE
+   date: September 24, 2024
+   countdown: 2024/09/24 22:59:59 PT
    enabled: true
  - name: Acceptance Notification
-   date: October 15, 2024
-   countdown: 2024/11/15 22:59:59 AoE
+   date: October 08, 2024
+   countdown: 2024/10/08 22:59:59 PT
    enabled: true
  - name: Workshop & Mentoring event
    date: December 08, 2024
-   countdown: 2024/12/08 22:59:59 AoE
+   countdown: 2024/12/08 22:59:59 PT
    enabled: true

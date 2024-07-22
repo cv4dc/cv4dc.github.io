@@ -10,7 +10,7 @@ Submissions can include both innovative algorithms and practical applications. W
 
 <br>
 
-<a href="{{site.url}}/files/2024/CV4DC2024_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a> 
+<a href="{{site.url}}/files/2024/CV4DC2024_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a>
 
 **Topics of Interest**
 
@@ -60,12 +60,14 @@ Submission page: [OpenReview](https://openreview.net/group?id=ACCV/2024/Workshop
 **Important Dates**
 
 Please adhere to the submission deadlines and other key dates outlined below. Note that extensions will not be granted.
+
 - September 24, 2024 : Paper submission deadline.
 - October 08, 2024 : Acceptance Notification
 - December 08, 2024 : Workshop & Mentoring event
-All submission deadlines are **23:59 Pacific Time (PT)**. 
+  All submission deadlines are **23:59 Pacific Time (PT)**.
 
 **Attendance Awards**
+
 <!-- We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights, accommodations, and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
 Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications. -->
 
@@ -73,10 +75,10 @@ Details on attendance awards will be provided soon. Stay tuned for updates!
 
 **Registration Instructions**
 
-As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: [ACCV Registration](https://accv2024.org/registration/) 
+As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: [ACCV Registration](https://accv2024.org/registration/)
 
 **Presentation Instructions**
 
 Details on presentation guidelines and formats will be provided soon. Stay tuned for updates!
 
-**Contact:** cv4dc@googlegroups.com
+**Contact:** [cv4dc@googlegroups.com](mailto:cv4dc@googlegroups.com)

@@ -15,14 +15,14 @@ Important note: **We may desk-reject papers that contain authors without a valid
 
 More specifically, we **require every author** to perform the following steps:
 
-**Step 1**  
+**Step 1**
 Log in to your OpenReview account.
 
 If you do not already have an account, you can sign up [here](https://openreview.net/signup).
 Please make sure to confirm your email address and to complete the registration to activate the profile.
 (Detailed instructions for the sign up process can be found [here](https://docs.openreview.net/getting-started/creating-an-openreview-profile/signing-up-for-openreview).)
 
-**Step 2**  
+**Step 2**
 If required, please update the email addresses of your [profile](https://openreview.net/profile/edit).
 Most importantly, ensure that the email address that receives the paper registration notification is linked to your profile and has been confirmed.
 (Detailed instructions for adding an email address can be found [here](https://docs.openreview.net/getting-started/creating-an-openreview-profile/add-or-remove-an-email-address-from-your-profile).)
@@ -31,24 +31,24 @@ Please note: Do not remove old email addresses. Those are used for conflict dete
 
 **IMPORTANT:** All future OpenReview messages will be addressed to your "preferred email" address of your OpenReview profile. Hence, please make sure to adapt the preferred email address of your profile - if required.
 
-**Step 3**  
+**Step 3**
 Please follow the [instructions to enter or update the institutional data of your profile](https://docs.openreview.net/getting-started/creating-an-openreview-profile/entering-institutional-data).
 
 (If your institution is not part of the drop-down list, you should be able to just enter a new institution domain and name.)
 
 Please note: Do not remove old positions. Those are used for conflict determination in the review process.
 
-**Step 4**  
+**Step 4**
 Please update your list of publications in your profile; see [instructions to import papers from DBLP to your profile](https://docs.openreview.net/getting-started/creating-an-openreview-profile/importing-papers-from-dblp).
 
-(If you have not published yet, you can skip this step.)   
+(If you have not published yet, you can skip this step.)
 
 Please note: The list of papers in your OpenReview profile is shared across conferences, so it should contain all your publications.
 OpenReview uses this list of papers for conflict determination in the review process.
 
-**Step 5**  
+**Step 5**
 Complete paper submission by {{site.data.dates[page.year][0].date}} Pacific Time.
-To begin the submission process, go to the [OpenReview CV4DC 2024 submission page](https://openreview.net/group?id=CV4DC/2024/Conference),
+To begin the submission process, go to the [OpenReview CV4DC 2024 submission page](https://openreview.net/group?id=ACCV/2024/Workshop/CV4DC),
 make sure you are logged in, click on the "CV4DC {{page.yea}} Conference Submission" button, and then follow the instructions on the form that will appear.
 
 <!-- ### Submission Guidelines:
@@ -57,7 +57,7 @@ All submissions will be handled electronically via the conference's OpenReview w
 By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
 <!-- The paper registration deadline is **May 26, C2024**, and the-->
 <!-- The paper submission deadline is **{{site.data.dates[page.year][0].date}}**.
-Supplementary material can be submitted until **{{site.data.dates[page.year][1].date}}**. 
+Supplementary material can be submitted until **{{site.data.dates[page.year][1].date}}**.
 Note that **the authors cannot submit a paper without its registration**.
 
 Papers are limited to eight pages, including figures and tables, in the CV4DC style.
@@ -65,9 +65,6 @@ Additional pages containing only cited references are allowed. Please refer to t
 - **[Download Author Kit]({{site.url}}/files/{{page.year}}/CV4DC{{page.year}}-author_kit.zip)**
 
 Papers that are not properly anonymized, or do not use the template, or have more than eight pages (excluding references) will be rejected without review. -->
-
-
-
 
 <!--
 # Below are the old isntructions
@@ -81,12 +78,11 @@ Please add "email@msr-cmt.org" to your list of safe senders (whitelist) to preve
 
 Log into OpenReview at [https://openreview.net/](https://openreview.net/). If you do not see “Computer Vision for Developing Countries (CV4DC) Workshop” in the conference list already, click on the “All Conferences” tab and find it there. -->
 
-
-<!-- **2) Setting up your profile:** 
+<!-- **2) Setting up your profile:**
 
 You can update your User Profile, Email, and Password by clicking on your name in the upper-right inside the Author Console and choosing the appropriate option under “General”. -->
 
-<!-- **3) Domain Conflicts:** 
+<!-- **3) Domain Conflicts:**
 
 When you log in for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time before the submission deadline, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under CV4DC C2024.
 
@@ -96,7 +92,7 @@ It is the primary author's responsibility to ensure that all authors on their pa
 
  This step must be completed by the paper **registration** deadline. After this deadline, you will not be able to register new papers, but you will be able to edit the information for existing papers.
 
-(a) Click the “+ Create new submission” button in the upper-left to create a new submission. There, you will be prompted to enter the title, abstract, authors, and subject areas. 
+(a) Click the “+ Create new submission” button in the upper-left to create a new submission. There, you will be prompted to enter the title, abstract, authors, and subject areas.
 No further authors can be added after the paper submission.
 
 (b) Check with your co-authors to make sure that: (1) you add them with their correct CMT3 email; and (2) they have entered their domain conflicts into CMT3 for CV4DC C2024. If you add an author with an email that is not in CMT3 and the name and organization is not automatically filled, that means they are not yet in the system, and you should make sure to check that they do not already have an account under a different email before completing the requested information to add them.
@@ -125,13 +121,13 @@ Supplementary material may include videos, proofs, additional figures or tables,
 
  To improve reproducibility in AI research, we highly encourage authors to voluntarily submit their code as part of the supplementary material. Authors should also use the [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) as a guide for writing reproducible papers. Reviewers are encouraged to check the submitted code to ensure that the paper’s results are trustworthy and reproducible. The code should be anonymized, e.g., author names, institutions and licenses should be removed. We do not expect authors to submit private/sensitive data, only data sufficient to demonstrate the method. All code/data will be reviewed confidentially and kept private.
 
- 
+
 
 **Detailed supplementary material guidelines:**
 
 (a) All supplementary material must be self-contained and zipped into a single file. The following document and media formats are allowed: avi, doc, docx, mp4, pdf, wmv. CMT imposes a 100MB limit on the size of this file. Note that you can update the file by uploading a new one (the old one will be deleted and replaced).
 
-(b) The paper for review (PDF only) must be submitted first before the supplementary material (PDF or ZIP only) can be submitted. 
+(b) The paper for review (PDF only) must be submitted first before the supplementary material (PDF or ZIP only) can be submitted.
 
 (c) Code can be submitted as part of the supplementary zip file or through anonymous Github repositories (include the link in a separate text file in the supplementary zip). The link should point to a branch that will not be modified after the submission deadline.
 

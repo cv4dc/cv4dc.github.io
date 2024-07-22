@@ -1,27 +1,27 @@
-{% if page.year != null %}
-    {% assign year = page.year %}
-{% else %}
-    {% assign year = site.data.cv4dc.current-year %}
-{% endif %}
+{% if page.year != null %} {% assign year = page.year %} {% else %} {% assign year = site.data.cv4dc.current-year %} {%
+endif %}
 
 <h3><i class="far fa-handshake"></i> &nbsp; Sponsors</h3>
 <!-- Want to sponsor the workshop? Check out <b><a href="https://cv4dc.github.io//2024/partnership">Partnership Program</a></b> and contact <br><strong><a href="cv4dc@googlegroups.com">cv4dc@googlegroups.com</a></strong>  -->
-Want to sponsor the workshop? Please contact <br><strong><a href="cv4dc@googlegroups.com">cv4dc@googlegroups.com</a></strong> 
+Want to sponsor the workshop? Please contact <br /><strong
+    ><a href="mailto:cv4dc@googlegroups.com">cv4dc@googlegroups.com</a></strong
+>
 
 <div class="row">
-
-{% for section in site.data.sponsors[year] %}
-<div class="row">
-	{% assign sorted_company = section.company | sort:'name' %}
-	{% for company in sorted_company %}
-  <div class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar" style="padding:10px;text-align: center" >
-		<a href="{{company.url}}" target="_blank">
-      <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}"></a>
-	</div>		
-	{% endfor %}
-</div>
-{% endfor %}
-
+    {% for section in site.data.sponsors[year] %}
+    <div class="row">
+        {% assign sorted_company = section.company | sort:'name' %} {% for company in sorted_company %}
+        <div
+            class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar"
+            style="padding: 10px; text-align: center"
+        >
+            <a href="{{company.url}}" target="_blank">
+                <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}"
+            /></a>
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
 </div>
 
 <!--
@@ -29,15 +29,15 @@ Want to sponsor the workshop? Please contact <br><strong><a href="cv4dc@googlegr
 
 	<div class="col-md-6 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
     <a href="https://abc.com" target="_blank">
-      <img alt="ABC Logo" 
+      <img alt="ABC Logo"
       src="{{site.url}}/img/2024/sponsors/abc_logo.png"
       >
     </a>
-	</div>		
+	</div>
 
 	<div class="col-md-4 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
     <a href="https://xyz.com" target="_blank">
-      <img alt="XYZ Logo" 
+      <img alt="XYZ Logo"
            src="{{site.url}}/img/2024/sponsors/xyz_logo.png"
       >
     </a>

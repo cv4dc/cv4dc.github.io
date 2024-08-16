@@ -69,7 +69,7 @@ All submission deadlines are **23:59 Pacific Time (PT)**.
 
 **Attendance Awards**
 
-We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights, accommodations, and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
+We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
 
 Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications.
 

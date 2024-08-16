@@ -10,7 +10,7 @@ Want to sponsor the workshop? Please contact <br /><strong
 <div class="row">
     {% for section in site.data.sponsors[year] %}
     <div class="row">
-        {% assign sorted_company = section.company | sort:'name' %} {% for company in sorted_company %}
+        {% assign sorted_company = section.company | sort:'index' %} {% for company in sorted_company %}
         <div
             class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar"
             style="padding: 10px; text-align: center"

@@ -28,7 +28,7 @@ year: 2024
 			{% if people.url %}</a>{% endif %}
 		</div>
 		{% endif %}
-		<div class="centre">
+		<div class="centre affiliation">
 			<b>{{people.name}}</b>
 			<p class="centre small">{{people.affiliation}}</p>
 		</div>

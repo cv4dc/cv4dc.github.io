@@ -34,7 +34,7 @@ title-logo: <i class="far fa-handshake"></i>
 	<img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}" style="width:{{company.width}}; margin-left: 10px" class="centre">
 	</a>
 	<!-- </div> -->
-	<!-- <br/><br/> -->
+	<br/><br/>
 	{% endfor %}
 </div>
 <br><br>

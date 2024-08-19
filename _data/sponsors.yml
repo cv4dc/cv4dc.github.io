@@ -6,14 +6,14 @@
       logo: img/2024/sponsors/retrocausal_ai.png
       url: https://retrocausal.ai/
       height: 25em
-      width: 48%
+      width: 80%
       mdsize: 8
       index: 1
     - name: ACCV 2024
       logo: img/2024/sponsors/accv24.png
       url: https://accv2024.org/
       height: 25em
-      width: 48%
+      width: 80%
       mdsize: 8
       index: 2
     

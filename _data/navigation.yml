@@ -59,8 +59,12 @@
  - title: Important Dates
    url: dates
 
-#  - title: Sponsors
-#    url: partnership
+ - title: Partnerships
+   nested:
+   - title: Partnership Program
+     url: partnership
+   - title: Sponsors
+     url: sponsors
 
  - title: Organizers
    url: people

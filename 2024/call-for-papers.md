@@ -53,6 +53,8 @@ Full Length Papers: Up to fourteen (14) pages excluding references. These can co
 
 All submissions must adhere to the guidelines provided by the ACCV 2024 Author Kit. Papers must clearly state the research problem, motivation, and technical contributions. Submissions should be self-contained, including all necessary figures, tables, and references.
 
+Authors are welcome to submit multiple papers, provided that each submission presents distinct, original contributions.
+
 Authors of accepted submissions will be required to present their work during a poster session. A select few will be invited to deliver a 10-15 minute oral presentation.
 
 Submission page: [OpenReview](https://openreview.net/group?id=ACCV/2024/Workshop/CV4DC)

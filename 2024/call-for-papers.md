@@ -75,6 +75,10 @@ We are pleased to offer travel grants to a select number of authors with accepte
 
 Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications.
 
+**New Updates:** In collaboration with ACCV, we are pleased to announce that free registration will be available to 50 attendees from the following countries: Afghanistan, Bhutan, Cambodia, Indonesia, Kazakhstan, North Korea, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, Philippines, Tajikistan, Timor Leste, Turkmenistan, and Uzbekistan. Authors from these countries who wish to attend the workshop must apply for the grant. The application process is simple and requires only a brief statement (a few paragraphs) or a CV.
+
+**Please send your application (CV or brief statement) to cv4dc@googlegroups.com.**
+
 **Registration Instructions**
 
 As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: [ACCV Registration](https://accv2024.org/registration/)

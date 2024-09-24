@@ -70,6 +70,8 @@ Please adhere to the submission deadlines and other key dates outlined below. No
 
 All submission deadlines are **23:59 Pacific Time (PT)**.
 
+**New Updates:** We received many requests on deadline extension, therefore we decided to extend our submission deadline 1 more week
+
 **Attendance Awards**
 
 We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.

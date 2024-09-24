@@ -63,11 +63,14 @@ Submission page: [OpenReview](https://openreview.net/group?id=ACCV/2024/Workshop
 
 Please adhere to the submission deadlines and other key dates outlined below. Note that extensions will not be granted.
 
-- September 24, 2024 : Paper submission deadline.
+- ~~September 24, 2024 : Paper submission deadline.~~
+- September 31, 2024 : Paper submission deadline.
 - October 08, 2024 : Acceptance Notification
 - December 08, 2024 : Workshop & Mentoring event
 
 All submission deadlines are **23:59 Pacific Time (PT)**.
+
+**New Updates:** We received many requests on deadline extension, therefore we decided to extend our submission deadline 1 more week
 
 **Attendance Awards**
 

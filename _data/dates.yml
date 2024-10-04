@@ -8,22 +8,8 @@ previous-years:
    countdown: 2024/10/01 22:59:59 PT
    enabled: true
  - name: Acceptance Notification
-   date: October 08, 2024
-   countdown: 2024/10/08 22:59:59 PT
-   enabled: true
- - name: Workshop & Mentoring event
-   date: December 08, 2024
-   countdown: 2024/12/08 22:59:59 PT
-   enabled: true
-
-2024:
- - name: Paper Submission
-   date: October 1, 2024
-   countdown: 2024/10/01 22:59:59 PT
-   enabled: true
- - name: Acceptance Notification
-   date: October 08, 2024
-   countdown: 2024/10/08 22:59:59 PT
+   date: October 15, 2024
+   countdown: 2024/10/15 22:59:59 PT
    enabled: true
  - name: Workshop & Mentoring event
    date: December 08, 2024

@@ -1,5 +1,4 @@
 # CV4DC Website
 
-**CV4DC 2024 Contributors**: Tuan-Anh VU
+**CV4DC 2024 Contributors**: Tuan-Anh VU, Erik Dao, Williem
 
-**Contributors of Previous Years**: Tuan-Anh VU

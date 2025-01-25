@@ -23,8 +23,8 @@
    nested:
    - title: Schedule
      url: schedule
-#    - title: Papers
-#      url: accepted-papers
+   - title: Papers
+     url: accepted-papers
 #    - title: Demos
 #      url: demos
 #    - title: Tutorials

@@ -1,3 +1,41 @@
+2025:
+ - section:
+   name: Program Chairs
+   mail: cv4dc [at] googlegroups [dot] com
+   people:
+    - name: Du Tran
+      affiliation: Google, 🇺🇸
+      image: img/2024/people/du.png
+      url: https://dutran.github.io/
+    - name: Erik (Cuong) Dao
+      affiliation: Epidemic Sound, 🇸🇪
+      url: https://www.erikdao.com/about/
+      image: img/2024/people/cuong.png
+    - name: Quoc-Huy Tran
+      affiliation: Retrocausal AI, 🇺🇸
+      url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
+      image: img/2024/people/huy.png
+    - name: Phong Nguyen
+      affiliation: VinAI, 🇻🇳
+      url: https://phongnhhn.info/
+      image: img/2024/people/phong.png
+    - name: Tuan-Anh Vu
+      affiliation: UCLA, 🇺🇸
+      url: https://tuananh1007.github.io/
+      image: img/2024/people/anh.png
+    - name: Siddhartha Gairola
+      affiliation: Max Planck Institute for Informatics, 🇩🇪
+      url: https://sidgairo18.github.io
+      image: img/2024/people/siddhartha.png
+    - name: Williem
+      affiliation: Independent Researcher, 🇮🇩
+      url: https://williem.dev/
+      image: img/2024/people/williem.png
+    - name: Ujjwal Verma
+      affiliation: Manipal Institute of Technology, 🇮🇳
+      url: https://uverma.github.io/
+      image: img/2024/people/ujjwal.png
+
 2024:
  - section:
    name: Advisory Chairs

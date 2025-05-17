@@ -1,7 +1,26 @@
-current-year: 2024
+current-year: 2025
 previous-years:
   - 2024
- 
+
+2024:
+ - name: Paper Submission
+   date: June 15, 2025
+   countdown: 2025/06/15 22:59:59 PT
+   enabled: true
+ - name: Acceptance Notification
+   date: July 18, 2025
+   countdown: 2025/07/18 22:59:59 PT
+   enabled: true
+ - name: Camera-ready Submission
+   date: August 18, 2025
+   countdown: 2025/08/15 22:59:59 PT
+   enabled: true
+ - name: Workshop & Mentoring event
+   date: December 19, 2025
+   countdown: 2025/12/19 22:59:59 PT
+   enabled: true
+
+
 2024:
  - name: Paper Submission
    date: October 1, 2024

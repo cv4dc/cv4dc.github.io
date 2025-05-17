@@ -1,5 +1,5 @@
 ---
 layout: 2024_sidebar
-year: 2024
+year: 2025
 title: CV4DC Workshop Home
 ---

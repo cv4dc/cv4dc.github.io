@@ -13,20 +13,6 @@ previous-years:
   # header-image-creditlink: https://commons.wikimedia.org/wiki/File:Praha_skyline.png
   background: FFFFFF
 
-  program:
-   - name: Tutorials
-     day: 0
-     date: 2022-09-12 #08:30
-   - name: Day 1
-     day: 1
-     date: 2022-09-13 #08:30
-   - name: Day 2  
-     day: 2
-     date: 2022-09-14 #08:30  
-   - name: Day 3
-     day: 3
-     date: 2022-09-15 #08:30
-
 2024:
   title: "<b>Computer Vision for Developing Countries (CV4DC) Workshop</b>"
   date: "08 December 2024"

@@ -1,93 +1,77 @@
 ---
 layout: 2024_sidebar
 title: Call for Papers
-year: 2024
+year: 2025
 ---
 
-We invite students and researchers from developing countries, regardless of their current location, to submit their work to the Computer Vision for Developing Countries (CV4DC) workshop. We are interested in new ideas, ongoing research, as well as work that has been previously published whithin 1 year or is under consideration elsewhere.
+We invite students and researchers from **developing countries**, regardless of their current location, to submit their work to the **2nd Workshop on Computer Vision for Developing Countries (CV4DC)**. The workshop aims to highlight research that is either conducted in or particularly relevant to developing regions, spanning new ideas, ongoing projects, practical applications, and previously published work (within the last year).
 
-Submissions can include both innovative algorithms and practical applications. While the presenting author does not need to be the first author, we encourage highlighting contributions from researchers in developing countries, particularly the presenting author, in the abstract. Although the workshop primarily aims to showcase researchers from developing countries, participation is open to all.
+CV4DC seeks to foster collaboration, inclusion, and impact in the global vision community by showcasing contributions that address local and global challenges. Participation is open to all, but we strongly encourage highlighting contributions from researchers affiliated with developing countries—especially the presenting author—in the abstract.
 
-<br>
+## Topics of Interest
 
-<a href="{{site.url}}/files/2024/CV4DC2024_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a>
+We welcome submissions on a broad range of topics in computer vision and pattern recognition, including but not limited to:
+- Vision for social good / global development
+- Vision applications in agriculture, healthcare, climate change, disaster response, education
+- Dataset development and annotation in low-resource settings
+- Low-power and efficient computer vision
+- Remote sensing, photogrammetry for developing regions
+- Document analysis (e.g., handwritten, multilingual, low-quality)
+- Biomedical image analysis and diagnostics
+- Generative models and data augmentation for scarce data
+- Vision + Language / Multimodal Learning
+- Any core vision topics, including:
+    - 3D Computer Vision
+    - Motion and Tracking
+    - Recognition, Categorization, Retrieval
+    - Segmentation and Grouping
+    - Deep Learning Techniques
+    - Optimization and Statistical Methods
+    - Low-Level Vision & Image Processing
+    - Robotics, Autonomous Systems
+    - Fairness, Transparency, and Ethics in CV
 
-**Topics of Interest**
+## Submission Tracks
 
-We invite submissions on a wide range of topics in computer vision and pattern recognition, including but not limited to the following areas:
+We offer two submission tracks:
 
-- 3D Computer Vision
-- Applications of Computer Vision, Vision for X
-- Big Data, Large Scale Methods
-- Biomedical Image Analysis
-- Biometrics
-- Computational Photography, Sensing, and Display
-- Datasets and Performance Analysis
-- Deep Learning for Computer Vision
-- Document image analysis
-- Face and Gesture
-- Pose and Action
-- Generative models for computer vision
-- Illumination and Reflectance Modeling
-- Low-level Vision, Image Processing
-- Motion and Tracking
-- Optimization Methods
-- Physics-based Vision and Shape from X
-- Recognition: Feature Detection, Indexing, Matching, and Shape Representation
-- RGBD and Depth Image Processing
-- Robot Vision
-- Segmentation and Grouping
-- Statistical Methods and Learning
-- Video Analysis and Event Recognition
-- Vision and Language
+### 1. Proceedings Track
+- Format: Up to 8 pages (excluding references), following ICCV 2025 formatting guidelines.
+- Submissions will be double-blind reviewed.
+- Accepted papers will be published in the official ICCV 2025 Workshop Proceedings.
+- Suitable for well-developed, original research contributions.
 
-**Submission Categories**
+### 2. Non-Proceedings Track
+- Format: 2–4 pages (excluding references), following ICCV 2025 formatting guidelines.
+- Welcomes work-in-progress, preliminary findings, insightful negative results, opinion pieces, novel datasets, and papers published within the last year.
+- Submissions in this track will not be included in the official ICCV proceedings, allowing authors to share their work without affecting eligibility for journal or conference publication elsewhere.
+- Suitable for researchers seeking community feedback, visibility, and collaboration opportunities on evolving or recently completed work.
 
-We accept the following types of submissions:
+## Submission Guidelines
+- Submission portal: [OpenReview Submission Link – TBA]
+- All submissions must be uploaded via OpenReview.
+- Templates and author kit available via ICCV 2025 Author Guidelines
+- Reviews will be double-blind. All accepted papers will be presented in a poster session, and a select number will be chosen for oral presentations.
 
-Extended Abstracts: Submissions should be between four (4) and seven (7) pages, excluding references. These can cover work in progress, preliminary research, studies published within 1 year, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
+## Important Dates
 
-Full Length Papers: Up to fourteen (14) pages excluding references. These can cover work in progress, studies published within 1 year, or any relevant computer vision applications. Accepted papers in this category will not be archived in the ACCV workshop proceedings, allowing future publication in other venues.
+### 1. Proceedings Track
+(For papers to be published in the official ICCV 2025 Workshop Proceedings)
+- Submission Deadline: June 15th, 2025 (AOE)
+- Author Notification: July 18th, 2025 (AOE)
+- Camera-Ready Deadline: August 18th, 2025 (AOE)
+- Workshop Dates: October 19–20, 2025
 
-**Submission Guidelines**
+### 2. Non-Proceedings Track
+(For work-in-progress, published papers, or other non-archival submissions)
+- Submission Deadline: June 15th, 2025 (AOE)
+- Author Notification: July 18th, 2025 (AOE)
+- Camera-Ready Deadline: August 18th, 2025 (AOE)
+- Workshop Dates: October 19–20, 2025
 
-All submissions must adhere to the guidelines provided by the ACCV 2024 Author Kit. Papers must clearly state the research problem, motivation, and technical contributions. Submissions should be self-contained, including all necessary figures, tables, and references.
+## Registration
+CV4DC is an official ICCV 2025 workshop.
 
-Authors are welcome to submit multiple papers, provided that each submission presents distinct, original contributions.
+**All accepted papers must be registered through the ICCV 2025 conference site.** Please ensure your registration includes access to workshops.
 
-Authors of accepted submissions will be required to present their work during a poster session. A select few will be invited to deliver a 10-15 minute oral presentation.
-
-Submission page: [OpenReview](https://openreview.net/group?id=ACCV/2024/Workshop/CV4DC)
-
-**Important Dates**
-
-Please adhere to the submission deadlines and other key dates outlined below. Note that extensions will not be granted.
-
-- ~~September 24, 2024 : Paper submission deadline.~~
-- October 1, 2024 : Paper submission deadline.
-- October 08, 2024 : Acceptance Notification
-- December 08, 2024 : Workshop & Mentoring event
-
-All submission deadlines are **23:59 Pacific Time (PT)**.
-
-**New Updates:** We received many requests on deadline extension, therefore we decided to extend our submission deadline 1 more week
-
-**Attendance Awards**
-
-We are pleased to offer travel grants to a select number of authors with accepted papers. The exact amount of each grant will be determined based on the number of applications received and will be disclosed following the paper acceptance notifications. These grants are intended to help offset travel expenses related to attending the workshop, including flights and conference registration. Please note that the grant may not cover all incurred expenses. Recipients will be required to submit receipts for travel expenses to receive their award.
-
-Priority for travel grants will be given to authors from **developing countries**. However, we regret that we cannot guarantee grants for all accepted papers. The final grant amounts will depend on the volume of applications and will be communicated after the acceptance notifications.
-
-**New Updates:** In collaboration with ACCV, we are pleased to announce that free registration will be available to 50 attendees from the following countries: Afghanistan, Bhutan, Cambodia, Indonesia, Kazakhstan, North Korea, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, Philippines, Tajikistan, Timor Leste, Turkmenistan, and Uzbekistan. Authors from these countries who wish to attend the workshop must apply for the grant. The application process is simple and requires only a brief statement (a few paragraphs) or a CV.
-
-**Please send your application (CV or brief statement) to cv4dc@googlegroups.com.**
-
-**Registration Instructions**
-
-As CV4DC is a workshop under the ACCV, registration will be managed through the ACCV website. Please ensure that your ACCV registration includes the workshop sessions. Detailed information and instructions for registration can be found here: [ACCV Registration](https://accv2024.org/registration/)
-
-**Presentation Instructions**
-
-Details on presentation guidelines and formats will be provided soon. Stay tuned for updates!
-
-**Contact:** [cv4dc@googlegroups.com](mailto:cv4dc@googlegroups.com)
+Note: **Papers without valid ICCV registration will not be included in the final program.**

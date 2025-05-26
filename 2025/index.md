@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-layout: 2024_sidebar
+layout: 2025_sidebar
 title: 2nd Workshop on Computer Vision for Developing Countries (CV4DC) 2025
 year: 2025
 banner-image: img/2024/hanoi.jpg

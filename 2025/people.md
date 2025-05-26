@@ -1,5 +1,5 @@
 ---
-layout: 2024_sidebar
+layout: 2025_sidebar
 year: 2025
 ---
 

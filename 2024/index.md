@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+# redirect_from: "/"
 layout: 2024_sidebar
 title: Computer Vision for Developing Countries (CV4DC) Workshop 2024
 year: 2024

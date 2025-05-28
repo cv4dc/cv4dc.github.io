@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar_no_sponsors
-year: 2024
+layout: 2025_sidebar_no_sponsors
+year: 2025
 title: Sponsors
 title-logo: <i class="far fa-handshake"></i>
 ---
@@ -8,7 +8,7 @@ title-logo: <i class="far fa-handshake"></i>
 <!-- <h3 class="centre">Platinum Partners</h3>
 
 <a href="https://hexagon.com" target="_blank">
-<img src="{{site.url}}/img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png" width="90%"></a> -->
+<img src="{{site.url}}/img/2025/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png" width="90%"></a> -->
 
 
 <!-- <h3 class="centre">Gold Partners</h3>

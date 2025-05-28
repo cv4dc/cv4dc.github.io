@@ -67,7 +67,7 @@ title: Keynote Speakers
 		<div class="row">
 			<div class="col-sm-3">
 				<div class="container-fluid">
-							<img class="rounded mx-auto d-block" style="margin:auto;" src="{{site.url}}/{{keynote.image}}" alt="{{keynote.name}} - Keynote Speaker at #CV4DC 2024" style="height:200px;float: right;margin:10px;"/>
+							<img class="rounded mx-auto d-block" style="margin:auto;" src="{{site.url}}/{{keynote.image}}" alt="{{keynote.name}} - Keynote Speaker at #CV4DC 2025" style="height:200px;float: right;margin:10px;"/>
 				</div>
 			</div>
 			<div class="col-sm-9">

@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Instructions for Final Submission
 reg-deadline: August 31 2022
 sub-deadline: September 1 2022 
@@ -13,7 +13,7 @@ Please note that deadlines will not be extended, and papers received after the d
 
 All CV4DC papers that are submitted on time, which are compliant with the guidelines, and for which the copyright form has been completed and have at least one author registered with a full passport registration by the camera-ready deadline will be placed in the conference proceedings.
 
-There are multiple steps to completing your final CV4DC 2024 paper submission:
+There are multiple steps to completing your final CV4DC 2025 paper submission:
 
 <ol>
  <li>Register at least one author</li>
@@ -26,10 +26,10 @@ There are multiple steps to completing your final CV4DC 2024 paper submission:
 
 <h2>1. Register at least one author</h2>
 
-Deadline: February 8, 2024
+Deadline: February 8, 2025
 
 All papers will require one author to pay the <b>Full or Student Passport</b> registration fee to attend the live interactive presentations.
-At least one author for each paper must register to attend the conference using our <a href="https://CV4DCconf.github.io/2024/registration/">online registration</a>.
+At least one author for each paper must register to attend the conference using our <a href="https://CV4DCconf.github.io/2025/registration/">online registration</a>.
 Provide your paper ID at registration time so that your paper can be matched with your co-authors.
 Please note that we will require one registration for each paper in case of authors of multiple papers.
 <b>It is not possible to register multiple papers for a single person</b>.
@@ -37,13 +37,13 @@ If a paper has no registered authors for the conference, the paper will not be i
 
 <h2>2. Prepare your paper</h2>
 
-Deadline: February 8, 2024
+Deadline: February 8, 2025
 
 There is a strict size limit of <b>30 MB</b> for the paper in the conference proceedings. If the size of your paper is bigger than this, you are probably using very large images in your figures. As a rule of thumb, your images will look fine at 600 pixels per inch and you should down-sample the images used in your figures accordingly. 
 The page limit for all papers is <b>8</b> pages — with at most <b>4</b> additional pages allowed that contain only cited references.
 To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references — no acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed and will not appear in the conference proceedings.
 
-LaTeX style files compatible with the publisher's requirements are available through the <a href="https://github.com/cvpr-org/author-kit/archive/refs/tags/CV4DC2024-v1.2.zip">CV4DC 2024 website (zip)</a>.
+LaTeX style files compatible with the publisher's requirements are available through the <a href="https://github.com/cvpr-org/author-kit/archive/refs/tags/CV4DC2025-v1.2.zip">CV4DC 2025 website (zip)</a>.
 
 <ul>
 <li>Ensure that the paper is formatted according to the final paper submission template (main.tex in CAMERA-READY version).</li>
@@ -55,7 +55,7 @@ A note regarding title capitalization: there are several websites that can help 
 
 <h2>3. Prepare your supplementary material (optional)</h2>
 
-Deadline: February 8, 2024
+Deadline: February 8, 2025
 
 Supplementary material can also be uploaded and may include videos, code, images, proofs, additional figures and tables, a more detailed analysis of experiments presented in the paper. 
 <!--The uploaded supplemental material may only include PDF files. For videos, we suggest uploading them somewhere, e.g., YouTube, and then providing a link to the video in the supplementary PDF. -->

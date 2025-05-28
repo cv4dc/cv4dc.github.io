@@ -1,11 +1,11 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Sponsors Program
 title-logo: <i class="far fa-handshake"></i> 
 ---
 
-<a href="{{site.url}}/files/2024/SponsorsCV4DC2024.pdf" target="_blank">**Full details of the partnership program can be found here.**</a> 
+<a href="{{site.url}}/files/2025/SponsorsCV4DC2025.pdf" target="_blank">**Full details of the partnership program can be found here.**</a> 
 
 ##### Gold Sponsor — 4000 USD
 - Sponsor recognition on our website

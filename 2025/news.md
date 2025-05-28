@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar_no_news
-year: 2024
+layout: 2025_sidebar_no_news
+year: 2025
 title: <i class="far fa-newspaper"></i> &nbsp;Latest News</h1>
 ---
 

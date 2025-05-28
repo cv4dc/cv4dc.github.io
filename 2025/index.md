@@ -4,9 +4,9 @@ layout: 2025_sidebar
 title: 2nd Workshop on Computer Vision for Developing Countries (CV4DC) 2025
 year: 2025
 banner-title: Welcome to CV4DC 2025
-header-image: "img/2024/CV4DC_Website_Banner.png"
+header-image: "img/2025/CV4DC_Website_Banner.png"
 background: ADD0B3
-favicon: "img/2024/cv4dc_icon.png"
+favicon: "img/2025/cv4dc_icon.png"
 ---
 
 The 2nd Workshop on Computer Vision for Developing Countries (CV4DC) will be held in-person **in conjunction with ICCV 2025 in Honolulu, Hawaii** on **December 18, 2025**.

@@ -1,12 +1,12 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Policies
 ---
 
 
 **Submission and Review Process:**
-For the first time, CV4DC 2024 will be using [OpenReview](https://openreview.net/group?id=thecvf.com/CV4DC/2024/Conference) to manage submissions.
+For the first time, CV4DC 2025 will be using [OpenReview](https://openreview.net/group?id=thecvf.com/CV4DC/2025/Conference) to manage submissions.
 Consistent with the review process for previous CV4DC conferences, submissions under review will be visible only to their assigned members of the program committee (area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
 

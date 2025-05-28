@@ -1,5 +1,5 @@
 ---
-layout: 2024_sidebar
+layout: 2025_sidebar
 year: 2022
 title: <i class="fas fa-trophy"></i> &nbsp; Prizes
 ---

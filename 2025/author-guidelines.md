@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Author Guidelines
 ---
 
@@ -12,7 +12,7 @@ In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/
 **Paper Formatting:**
 Papers are limited to **eight pages**, including figures and tables, in the CV4DC style.
 Additional pages containing only cited references are allowed.
-Please download the **[CV4DC 2024 Author Kit](https://github.com/cvpr-org/author-kit/releases?q=CV4DC2024&expanded=true)** for detailed formatting instructions. 
+Please download the **[CV4DC 2025 Author Kit](https://github.com/cvpr-org/author-kit/releases?q=CV4DC2025&expanded=true)** for detailed formatting instructions. 
 The maximum size of the abstract is 4000 characters.
 The paper must be PDF only (maximum 30 MB). Make sure your paper meets the formatting and anonymity requirements described above.
 The supplementary material can be either PDF or ZIP only (maximum 100 MB).
@@ -44,11 +44,11 @@ It may not include results on additional datasets, results obtained with an impr
 
 ### Rebuttal
 
-Unlike previous years, there will be no rebuttal at CV4DC 2024.
+There will be no rebuttal at CV4DC 2025.
 
 <!--
 After receiving the reviews, the authors may optionally submit a rebuttal to address the reviewers' comments.
-The rebuttal is limited to a one page PDF file using the rebuttal template included in the [CV4DC Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/CV4DC2024-v1.1.zip).
+The rebuttal is limited to a one page PDF file using the rebuttal template included in the [CV4DC Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/CV4DC2025-v1.1.zip).
 
 The author rebuttal is optional and is meant to provide you with an opportunity to rebut factual errors or to supply additional information requested by the reviewers.
 It is NOT intended to add new contributions (theorems, algorithms, experiments) that were absent in the original submission and NOT specifically requested by the reviewers.

@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Poster Instructions
 ---
 

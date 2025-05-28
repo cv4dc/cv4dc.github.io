@@ -1,6 +1,6 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Author OpenReview Instructions
 ---
 
@@ -48,14 +48,14 @@ OpenReview uses this list of papers for conflict determination in the review pro
 
 **Step 5**
 Complete paper submission by {{site.data.dates[page.year][0].date}} Pacific Time.
-To begin the submission process, go to the [OpenReview CV4DC 2024 submission page](https://openreview.net/group?id=ACCV/2024/Workshop/CV4DC),
+To begin the submission process, go to the [OpenReview CV4DC 2025 submission page](https://openreview.net/group?id=ACCV/2025/Workshop/CV4DC),
 make sure you are logged in, click on the "CV4DC {{page.yea}} Conference Submission" button, and then follow the instructions on the form that will appear.
 
 <!-- ### Submission Guidelines:
 
 All submissions will be handled electronically via the conference's OpenReview website.
 By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
-<!-- The paper registration deadline is **May 26, C2024**, and the-->
+<!-- The paper registration deadline is **May 26, 2025**, and the-->
 <!-- The paper submission deadline is **{{site.data.dates[page.year][0].date}}**.
 Supplementary material can be submitted until **{{site.data.dates[page.year][1].date}}**.
 Note that **the authors cannot submit a paper without its registration**.
@@ -84,7 +84,7 @@ You can update your User Profile, Email, and Password by clicking on your name i
 
 <!-- **3) Domain Conflicts:**
 
-When you log in for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time before the submission deadline, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under CV4DC C2024.
+When you log in for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time before the submission deadline, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under CV4DC 2025.
 
 It is the primary author's responsibility to ensure that all authors on their paper have registered their institutional conflicts into CMT3. Each author should list domains of all institutions they have worked for, or have had very close collaboration with, within the last three years (example: mit.edu; ox.ac.uk; microsoft.com). DO NOT enter the domain of email providers such as gmail.com. This institutional conflict information will be used in conjunction with prior authorship conflict information to resolve assignments to both reviewers and area chairs. If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected.
 
@@ -95,7 +95,7 @@ It is the primary author's responsibility to ensure that all authors on their pa
 (a) Click the “+ Create new submission” button in the upper-left to create a new submission. There, you will be prompted to enter the title, abstract, authors, and subject areas.
 No further authors can be added after the paper submission.
 
-(b) Check with your co-authors to make sure that: (1) you add them with their correct CMT3 email; and (2) they have entered their domain conflicts into CMT3 for CV4DC C2024. If you add an author with an email that is not in CMT3 and the name and organization is not automatically filled, that means they are not yet in the system, and you should make sure to check that they do not already have an account under a different email before completing the requested information to add them.
+(b) Check with your co-authors to make sure that: (1) you add them with their correct CMT3 email; and (2) they have entered their domain conflicts into CMT3 for CV4DC 2025. If you add an author with an email that is not in CMT3 and the name and organization is not automatically filled, that means they are not yet in the system, and you should make sure to check that they do not already have an account under a different email before completing the requested information to add them.
 
 (c) Enter subject (topic) areas for your paper. You must include at least one primary area. This information is used to help assign ACs and reviewers.
 
@@ -133,8 +133,8 @@ Supplementary material may include videos, proofs, additional figures or tables,
 
 ### Rebuttal Instructions
 
-After receiving the reviews, authors may optionally submit a rebuttal to address the reviewers' comments, which will be limited to a one page PDF file using the CV4DC C2024 Rebuttal Template.
-- **[Download Rebuttal Kit]({{site.url}}/files/C2024/CV4DCC2024RebuttalKit.zip)**
+After receiving the reviews, authors may optionally submit a rebuttal to address the reviewers' comments, which will be limited to a one page PDF file using the CV4DC 2025 Rebuttal Template.
+- **[Download Rebuttal Kit]({{site.url}}/files/2025/CV4DC2025RebuttalKit.zip)**
 
 The rebuttal must maintain anonymity and cannot include external links that reveal the author identity or circumvent the length restriction.
 

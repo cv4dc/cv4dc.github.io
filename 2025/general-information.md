@@ -1,22 +1,22 @@
 ---
-layout: 2024_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Information for attendees
 ---
 
 #### Visa and Letter of Invitation
 Please, refer to this page: [Visa]({{site.url}}/{{page.year}}/visa)
 
-### Childcare
-CV4DC2024 will provide childcare during the conference. Please reach out to the
-general chairs (cv4dc [at] googlegroups [dot] com) and you will receive further information. 
+<!-- ### Childcare
+CV4DC2025 will provide childcare during the conference. Please reach out to the
+general chairs (cv4dc [at] googlegroups [dot] com) and you will receive further information.  -->
 
 #### Insurance
 
-The CV4DC 2024 Conference secretariat and organisers cannot be held liable for
+The CV4DC 2025 Conference secretariat and organisers cannot be held liable for
 personal accidents, loss of or damage to private property of the congress
 participants and accompanying persons, either during or directly arising from
-CV4DC 2024 Conference. Participants should make their own arrangements for health
+CV4DC 2025 Conference. Participants should make their own arrangements for health
 and travel insurance.
 
 #### Clothing

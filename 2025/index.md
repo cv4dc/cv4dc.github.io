@@ -3,6 +3,7 @@ redirect_from: "/"
 layout: 2025_sidebar
 title: 2nd Workshop on Computer Vision for Developing Countries (CV4DC) 2025
 year: 2025
+banner-image: img/2025/hawaii.jpg
 banner-title: Welcome to CV4DC 2025
 header-image: "img/2025/CV4DC_Website_Banner.png"
 background: ADD0B3

@@ -1,18 +1,22 @@
 2025:
-- name: Cuong Duc Dao
+- name: Du Tran
+  affiliation: Google
+- name: Erik (Cuong) Dao
   affiliation: Epidemic Sound
-- name: Quoc-Huy Tran
-  affiliation: Retrocausal AI
+# - name: Quoc-Huy Tran
+#   affiliation: Retrocausal AI
 - name: Phong Nguyen
-  affiliation: VinAI
+  affiliation: Qualcomm AI
 - name: Tuan-Anh Vu
-  affiliation: HKUST and CFAR, ASTAR
+  affiliation: UCLA
 - name: Siddhartha Gairola
   affiliation: Max Planck Institute for Informatics
 - name: Williem
   affiliation: Independent Researcher
 - name: Ujjwal Verma
   affiliation: Manipal Institute of Technology
+- name: Vannkinh Nom
+  affiliation: La Rochelle Université & Cambodia Academy of Digital Technology
   
 2024:
 - name: Cuong Duc Dao

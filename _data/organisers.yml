@@ -11,12 +11,12 @@
       affiliation: Epidemic Sound, 🇸🇪
       url: https://www.erikdao.com/about/
       image: img/2024/people/cuong.png
-    - name: Quoc-Huy Tran
-      affiliation: Retrocausal AI, 🇺🇸
-      url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
-      image: img/2024/people/huy.png
+    # - name: Quoc-Huy Tran
+    #   affiliation: Retrocausal AI, 🇺🇸
+    #   url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
+    #   image: img/2024/people/huy.png
     - name: Phong Nguyen
-      affiliation: VinAI, 🇻🇳
+      affiliation: Qualcomm AI, 🇻🇳
       url: https://phongnhhn.info/
       image: img/2024/people/phong.png
     - name: Tuan-Anh Vu
@@ -35,6 +35,10 @@
       affiliation: Manipal Institute of Technology, 🇮🇳
       url: https://uverma.github.io/
       image: img/2024/people/ujjwal.png
+    - name: Vannkinh Nom
+      affiliation: La Rochelle Université, 🇫🇷 & Cambodia Academy of Digital Technology, 🇰🇭
+      url: https://scholar.google.com/citations?user=xyl99EYAAAAJ&hl=en
+      image: img/2025/people/vannkinh.jpg
 
 2024:
  - section:

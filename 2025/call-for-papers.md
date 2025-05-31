@@ -48,7 +48,7 @@ We offer two submission tracks:
 - Suitable for researchers seeking community feedback, visibility, and collaboration opportunities on evolving or recently completed work.
 
 ## Submission Guidelines
-- Submission portal: [OpenReview Submission Link – TBA]
+- Submission portal: [**Proceedings Track**](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CV4DC_Proceedings) and [**Non-Proceedings Track**](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CV4DC_Non-Proceedings)
 - All submissions must be uploaded via OpenReview.
 - Templates and author kit available via ICCV 2025 Author Guidelines
 - Reviews will be double-blind. All accepted papers will be presented in a poster session, and a select number will be chosen for oral presentations.
@@ -60,14 +60,14 @@ We offer two submission tracks:
 - Submission Deadline: June 15th, 2025 (AOE)
 - Author Notification: July 18th, 2025 (AOE)
 - Camera-Ready Deadline: August 18th, 2025 (AOE)
-- Workshop Dates: October 19–20, 2025
+- Workshop Dates: October 19, 2025
 
 ### 2. Non-Proceedings Track
 (For work-in-progress, published papers, or other non-archival submissions)
 - Submission Deadline: June 15th, 2025 (AOE)
 - Author Notification: July 18th, 2025 (AOE)
 - Camera-Ready Deadline: August 18th, 2025 (AOE)
-- Workshop Dates: October 19–20, 2025
+- Workshop Dates: October 19, 2025
 
 ## Registration
 CV4DC is an official ICCV 2025 workshop.

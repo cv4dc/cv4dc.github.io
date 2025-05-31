@@ -11,10 +11,10 @@
       affiliation: Epidemic Sound, 🇸🇪
       url: https://www.erikdao.com/about/
       image: img/2024/people/cuong.png
-    # - name: Quoc-Huy Tran
-    #   affiliation: Retrocausal AI, 🇺🇸
-    #   url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
-    #   image: img/2024/people/huy.png
+    - name: Quoc-Huy Tran
+      affiliation: Retrocausal AI, 🇺🇸
+      url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
+      image: img/2024/people/huy.png
     - name: Phong Nguyen
       affiliation: Qualcomm AI, 🇻🇳
       url: https://phongnhhn.info/

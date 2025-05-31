@@ -64,7 +64,7 @@ We offer two submission tracks:
 
 ### 2. Non-Proceedings Track
 (For work-in-progress, published papers, or other non-archival submissions)
-- Submission Deadline: June 15th, 2025 (AOE)
+- Submission Deadline: June 30th, 2025 (AOE)
 - Author Notification: July 18th, 2025 (AOE)
 - Camera-Ready Deadline: August 18th, 2025 (AOE)
 - Workshop Dates: October 19, 2025

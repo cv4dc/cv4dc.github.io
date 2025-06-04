@@ -1,4 +1,13 @@
 2025:
+ - name: "Georgia Gkioxari"
+   title: "Title: TBA"
+   abstract: "Abstract: TBA"
+   bio: "Georgia Gkioxari is an assistant professor of Computing + Mathematical Sciences at Caltech and a Hurt Scholar. She also spends time with the FAIR Perception team at Meta AI. From 2016 to 2022, she was a research scientist at Meta's FAIR team. Georgia Gkioxari received her PhD from UC Berkeley, where she was advised by Jitendra Malik. She did her bachelors in ECE at NTUA in Athens, Greece, where I worked with Petros Maragos."
+   prez: In Person
+   image: img/2025/people/georgia_gkioxari.jpeg
+   url: https://gkioxari.github.io/
+   order: 1
+   index: 1
  - name: "Sai-Kit Yeung"
    title: "AI and Systems Design for Marine Challenges"
    abstract: "In this talk, I will explore the pivotal role of AI in tackling the challenges of visual understanding in the marine environment. In particular, I will introduce the concept of marine AI foundation models—large-scale pre-trained systems designed for marine visual understanding. These models aim to capture the unique characteristics of underwater environments and serve as a universal system for various visual understanding tasks, such as coral reef monitoring, biodiversity assessment, marine species monitoring, and underwater navigation. Additionally, I will discuss several ongoing projects focused on achieving accurate underwater 3D mapping. The research I will present contributes to interdisciplinary efforts across maritime planning, large-scale seafloor surveying and cleaning, fishery management, marine life monitoring, underwater trash cleaning, and advancing AI applications in marine science and technology."

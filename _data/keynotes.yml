@@ -1,4 +1,13 @@
 2025:
+ - name: "Lorenzo Torresani"
+   title: "Title: TBA"
+   abstract: "Abstract: TBA"
+   bio: "Lorenzo is a Research Scientist at Facebook AI Research (FAIR). He is also a Professor in the Computer Science Department at Dartmouth. He received a Laurea Degree in computer science with summa cum laude honors from the University of Milan (Italy), and an M.S. and Ph.D. in computer science from Stanford University. Prior to Facebook, Lorenzo worked at several industrial research labs, including Microsoft Research, Like.com, and Digital Persona. His research interests lie in computer vision and deep learning. He is the recipient of a CVPR Best Student Paper prize, a National Science Foundation CAREER Award, a Google Faculty Research Award, three Facebook Faculty Awards, and a Fulbright US Scholar Award."
+   prez: In Person
+   image: img/2025/people/lorenzo_torresani.jpg
+   url: https://ltorresa.github.io/
+   order: 1
+   index: 1
  - name: "Georgia Gkioxari"
    title: "Title: TBA"
    abstract: "Abstract: TBA"
@@ -6,8 +15,8 @@
    prez: In Person
    image: img/2025/people/georgia_gkioxari.jpeg
    url: https://gkioxari.github.io/
-   order: 1
-   index: 1
+   order: 2
+   index: 2
  - name: "Sai-Kit Yeung"
    title: "AI and Systems Design for Marine Challenges"
    abstract: "In this talk, I will explore the pivotal role of AI in tackling the challenges of visual understanding in the marine environment. In particular, I will introduce the concept of marine AI foundation models—large-scale pre-trained systems designed for marine visual understanding. These models aim to capture the unique characteristics of underwater environments and serve as a universal system for various visual understanding tasks, such as coral reef monitoring, biodiversity assessment, marine species monitoring, and underwater navigation. Additionally, I will discuss several ongoing projects focused on achieving accurate underwater 3D mapping. The research I will present contributes to interdisciplinary efforts across maritime planning, large-scale seafloor surveying and cleaning, fishery management, marine life monitoring, underwater trash cleaning, and advancing AI applications in marine science and technology."
@@ -15,8 +24,8 @@
    prez: In Person
    image: img/2024/people/saikit.png
    url: https://www.saikit.org/ 
-   order: 2
-   index: 2
+   order: 3
+   index: 3
 2024:
  - name: "Supasorn Suwajanakorn"
    title: "Vision Research from An Unknown Corner of The World"

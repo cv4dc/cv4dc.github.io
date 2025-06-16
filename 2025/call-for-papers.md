@@ -57,15 +57,15 @@ We offer two submission tracks:
 
 ### 1. Proceedings Track
 (For papers to be published in the official ICCV 2025 Workshop Proceedings)
-- Submission Deadline: June 15th, 2025 (AOE)
-- Author Notification: July 18th, 2025 (AOE)
+- Submission Deadline: June 27th, 2025 (AOE)
+- Author Notification: July 10th, 2025 (AOE)
 - Camera-Ready Deadline: August 18th, 2025 (AOE)
 - Workshop Dates: October 19, 2025
 
 ### 2. Non-Proceedings Track
 (For work-in-progress, published papers, or other non-archival submissions)
-- Submission Deadline: June 30th, 2025 (AOE)
-- Author Notification: July 18th, 2025 (AOE)
+- Submission Deadline: July 20th, 2025 (AOE)
+- Author Notification: August 10th, 2025 (AOE)
 - Camera-Ready Deadline: August 18th, 2025 (AOE)
 - Workshop Dates: October 19, 2025
 

@@ -8,8 +8,8 @@ previous-years:
    countdown: 2025/07/02 23:59:59 AOE
    enabled: true
  - name: Paper Submission (Non-Proceedings Track)
-   date: August 11, 2025
-   countdown: 2025/08/11 23:59:59 AOE
+   date: August 15, 2025
+   countdown: 2025/08/15 23:59:59 AOE
    enabled: true
  - name: Acceptance Notification (Proceedings Track)
    date: July 10, 2025

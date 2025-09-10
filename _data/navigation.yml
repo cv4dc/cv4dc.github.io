@@ -3,6 +3,8 @@
    nested:
    - title: Schedule
      url: schedule
+   - title: Papers
+     url: accepted-papers
 
  - title: Calls for Papers
    url: call-for-papers

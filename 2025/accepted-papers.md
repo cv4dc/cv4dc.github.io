@@ -1,110 +1,104 @@
 ---
-layout: 2025_sidebar
+layout: 2025_default
 year: 2025
-title: Papers
+title: Accepted Camera Ready Papers
 ---
 
-<script>
-function myFunction() {
-  var input, filter, ul, li, a, i, txtValue;
-  input = document.getElementById('myInput');
-  filter = input.value.toUpperCase();
-  ul = document.getElementById("myUL");
-  li = document.getElementsByClassName('paper_li');
+<div style="width: 920px; margin: auto; display: block;">
+  <!-- Accepted Camera Ready Papers Section -->
+  <div style="margin-bottom: 40px;">
 
-  // Loop through all list items, and hide those who don't match the search query
-  for (i = 0; i < li.length; i++) {
-    a = li[i];
-    txtValue = a.innerHTML || a.textContent;
-	if (txtValue.toUpperCase().indexOf(filter) > -1) {
-      li[i].style.display = "";
-    } else {
-      li[i].style.display = "none";
-    }
-  }
-}
-</script>
-You will find the schedule for both poster and oral sessions of accepted papers below. Poster presenters are free to select their board from those available and are kindly reminded to take down their posters following their designated session slot.
-<div align="center">
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
+    <h3>Proceeding Track</h3>
+    <ul>
+      <li>
+        <strong>Nayana: A Foundation for Document-Centric Vision-Language Models via Multi-Task, Multimodal, and Multilingual Data Synthesis</strong>
+        - <a href="https://openreview.net/forum?id=15sfcTLKYT" target="_blank">Open Review</a>
+      </li>
+      <li>
+        <strong>Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception</strong>
+        - <a href="https://openreview.net/forum?id=1M1uWcMPm0" target="_blank">Open Review</a>
+      </li>
+      <li>
+        <strong>V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?</strong>
+        - <a href="https://openreview.net/forum?id=RvERGUYOIz" target="_blank">Open Review</a>
+      </li>
+	  <li>
+        <strong>FLD+: Data-efficient Evaluation Metric for Generative Models</strong>
+        - <a href="https://openreview.net/forum?id=erswAjtQ1i" target="_blank">Open Review</a>
+      </li>
+	  <li>
+        <strong>WavePaint: Resource-efficient Token-mixer for Self-supervised Inpainting</strong>
+        - <a href="https://openreview.net/forum?id=u0uyCaBFAW" target="_blank">Open Review</a>
+      </li>
+    </ul>
+
+    <h3>Non-Proceeding Track</h3>
+    <ul>
+      <li>
+        <strong>Neural Collapse Strikes Back: Lightweight Transfer of Large Vision Model for Cross-Scene Spectral Generalization</strong>
+        - <a href="https://openreview.net/forum?id=OzRmJws3Gr" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Multiscale Diagnostics of Visual Language Models</strong>
+        - <a href="https://openreview.net/forum?id=EGw3MWi417" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Vision-Language Models display a strong gender bias</strong>
+        - <a href="https://openreview.net/forum?id=se6208N2FJ" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Mudra-VLM: Adapting Vision-Language Models for Fine-Grained Bharatanatyam Mudra Recognition</strong>
+        - <a href="https://openreview.net/forum?id=2TYMON0tke" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Efficient Low-Resolution Chest X-Ray Diagnosis via Vision Transformers with Collaborative Distillation and Coreset Selection</strong>
+        - <a href="https://openreview.net/forum?id=9wKfW3oJQL" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Lightweight Vision Models for Remote Sensing in Low-Resource Settings</strong>
+        - <a href="https://openreview.net/forum?id=3Gw0ytTYJX" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Agro-Consensus: Semantic Self-Consistency in Vision-Language Models for Crop Disease Management in Developing Countries</strong>
+        - <a href="https://openreview.net/forum?id=b2f3OuCgjv" target="_blank">Open Review</a>
+      </li>
+
+	<li>
+        <strong>VeS: Teaching Pixels to Listen Without Supervision</strong>
+        - <a href="https://openreview.net/forum?id=xEOaxPYRtn" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Fine-Grained Action Quality Assessment in Sports Using Pose-Based Representations</strong>
+        - <a href="https://openreview.net/forum?id=BgiDib7x72" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging</strong>
+        - <a href="https://openreview.net/forum?id=WFCKOgbGrc" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>Dynamic Inter-Class Confusion-Aware Encoder for Audio-Visual Fusion in Human Activity Recognition</strong>
+        - <a href="https://openreview.net/forum?id=5lzbWFwkS3" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>AI-Derived Structural Building Intelligence for Urban Resilience: An Application in Saint Vincent and the Grenadines</strong>
+        - <a href="https://openreview.net/forum?id=tiBVVAsyQY" target="_blank">Open Review</a>
+      </li>
+
+	  <li>
+        <strong>NUTS: Eddy-Robust Reconstruction of Surface Ocean Nutrients via Two-Scale Modeling</strong>
+        - <a href="https://openreview.net/forum?id=ZYH6FFsfUo" target="_blank">Open Review</a>
+      </li>
+      
+    </ul>
+  </div>
 </div>
-
-<div id="myUL" style="list-style-type: none;"></div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-<script type="module">
-	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/accepted_papers.csv';
-	let user_name = document.getElementById("name");
-	let ul = document.getElementById("myUL");
-
-	const data = await d3.csv(csv_file_path);
-
-	for(let i=0; i<data.length; i++){
-		const li_a = document.createElement("a");
-		li_a.classList.add("paper_a");
-		li_a.setAttribute("data-toggle", "collapse");
-		li_a.setAttribute("href", "#abstract_"+i.toString());
-		li_a.setAttribute("role", "button");
-		li_a.setAttribute("aria-expanded", "false");
-		li_a.setAttribute("aria-controls", "abstract_"+i.toString());
-
-		const li = document.createElement("div");
-		li.classList.add("paper_li");
-		const badge = document.createElement("p");
-		badge.classList.add("paper_badge");
-		const poster_badge = document.createElement("p");
-		poster_badge.classList.add("paper_badge");
-		const authors = document.createElement("div");
-		authors.classList.add("paper_authors");
-		const title = document.createElement("span");
-		title.classList.add("paper_title");
-		title.appendChild(document.createTextNode(data[i]['title']));
-
-		const paper_abstract = document.createElement("div");
-		paper_abstract.classList.add("paper_abstract");
-		paper_abstract.classList.add("collapse");
-		paper_abstract.setAttribute("id", "abstract_"+i.toString());
-		paper_abstract.appendChild(document.createTextNode(data[i]['abstract']));
-
-		if (data[i]['title'] == ""){continue;}
-		poster_badge.appendChild(document.createTextNode(data[i]['poster']));
-		li.appendChild(poster_badge);
-		if (data[i]['session'] != ''){
-			badge.appendChild(document.createTextNode(data[i]['session']));
-			li.appendChild(badge);
-		}
-		li.appendChild(title);
-		authors.appendChild(document.createTextNode(data[i]['authors']));
-		li.appendChild(authors);
-		li.appendChild(paper_abstract);
-		li_a.appendChild(li);
-		ul.appendChild(li_a);
-
-	}
-
-	var $_GET=[];
-	window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$_GET[name]=value;});
-	if ($_GET['search']){
-		const search = $_GET['search'].replace('%20', ' ');
-		document.getElementById("myInput").value = search;
-		myFunction();
-	}
-</script>
-<script src="{{site.url}}/js/jquery.csv.js"></script>
-
-<div>
-</div>
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>

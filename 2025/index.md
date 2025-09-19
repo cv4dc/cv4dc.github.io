@@ -59,7 +59,7 @@ We would like to extend our heartfelt thanks to the following reviewers for thei
 - [Vannkinh Nom](https://scholar.google.com/citations?user=xyl99EYAAAAJ&hl=en) - PhD student, Université de La Rochelle, France
 - [Tuan-Anh Vu](https://tuananh1007.github.io/) - Postdoctoral Researcher, UCLA, USA
 - [Shashank Priyadarshi](https://iamsh4shank.github.io/) - Research Assistant, Max Planck Institute for Informatics, Germany
-- [Joshua Santoso](https://joshuajano.github.io/) - Researcher, Verihubs, Indonesia
+- [Joshua Santoso](https://joshuajano.github.io/) - Researcher, Goto Group, Indonesia
 
 
 

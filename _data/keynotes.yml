@@ -26,6 +26,14 @@
    url: https://www.saikit.org/ 
    order: 3
    index: 3
+ - name: "Ronnachai Jaroensri"
+   title: "Title: TBA"
+   abstract: "Abstract: TBA"
+   url: https://people.csail.mit.edu/tiam/
+   image: img/2025/people/tiam.jpg
+   bio: "Dr. Ronnachai Jaroensri is a lecturer at the Faculty of Medicine, Siriraj Hospital, Thailand. Until mid-2025, he was a researcher in Google Health working on advancing medical multimodal capabilities of Gemini and Gemma, Google's generative AI models. He focused on developing the vision-language ability of LLMs to create a performant system that can interact with users in a more natural way. Before Google, he completed his PhD study under Professor Freédo Durand at MIT CSAIL, working on using synthetic data to solve various computer vision and signal processing problems. Previously, he attended Stanford University for a bachelor's degree in Physics."
+   order: 4
+   index: 4
 2024:
  - name: "Supasorn Suwajanakorn"
    title: "Vision Research from An Unknown Corner of The World"

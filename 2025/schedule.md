@@ -4,12 +4,11 @@ year: 2025
 title: Schedule
 ---
 
-TBA
-
-<!-- <div style="width: 920px; height: 600px; position: relative; margin: auto; display: block">
+<div style="width: 920px; height: 600px; position: relative; margin: auto; display: block">
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 100%; height: 25px"></div>
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 10px; height: 100%"></div>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRX0fuWlx0DpC4JxzqVUfyAy6mEHqe8X14uFGu-nDoX2iQdh4nMjncGcRzyrfr98gGwznihIcaOLT-l/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600px"  frameborder="0" style="margin: auto; display:block; width: 100%; height: 100%"></iframe>
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRX0fuWlx0DpC4JxzqVUfyAy6mEHqe8X14uFGu-nDoX2iQdh4nMjncGcRzyrfr98gGwznihIcaOLT-l/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600px"  frameborder="0" style="margin: auto; display:block; width: 100%; height: 100%"></iframe> -->
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTeI1SC_ymzhmEwKiLRu0WQ481xg18-2sEiCT6o5VU5xiYUifopTMzb9wz0k3nNHoO7TPOY-jSL1y9i/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"  frameborder="0" style="margin: auto; padding-left: 10px; padding-right: 10px;display:block; width: 100%; height: 100%"></iframe>
 </div>
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}
@@ -136,4 +135,4 @@ TBA
 <br/>
 
 
-{% endfor %} -->
+{% endfor %}

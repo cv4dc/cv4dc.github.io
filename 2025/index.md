@@ -1,5 +1,4 @@
 ---
-redirect_from: "/"
 layout: 2025_sidebar
 title: 2nd Workshop on Computer Vision for Developing Countries (CV4DC) 2025
 year: 2025
@@ -44,7 +43,7 @@ We would like to extend our heartfelt thanks to the following reviewers for thei
 - [Sanket Badhe](https://github.com/SankBad) - Principal Researcher, Tinder, USA
 - [Shrinivass Arunachalam Balasubramanian](https://shrinivassab.github.io/3d_portfolio/) - Software Engineer, Fidelity, USA
 - [Dipen Pradhan](https://www.linkedin.com/in/dipenpradhan/) - Software Engineer, Google, USA
-- [Williem](https://williem.dev/) - Independent Researcher, Indonesia
+- [Williem](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en) - Independent Researcher, Indonesia
 - [Hanry Ham](https://github.com/hamhanry) - PhD Student, Universitas Indonesia, Indonesia
 - [Rensi Chen](https://www.linkedin.com/in/rensi-chen/) - Researcher, University of Rochester, USA
 - [Kehuan Yan](https://gitee.com/yan-kefan) - Master Student,College of Computer and Data Science, Fuzhou University, China

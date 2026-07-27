@@ -1,0 +1,10 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.cv4dc.current-year %}
+{% endif %}
+
+<header class="container" style="background: #{{site.data.cv4dc[page.year].background}};">
+  <!--<img src="{{site.url}}/{{ site.data['year'].header-image}}" width="100%">-->
+  <img src="{{site.url}}/{{ site.data.cv4dc[page.year].header-image}}" width="100%">
+</header>

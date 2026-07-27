@@ -1,6 +1,16 @@
-current-year: 2025
+current-year: 2026
 previous-years:
+  - 2025
   - 2024
+
+2026:
+  title: "<b>Workshop on Computer Vision for Developing Countries (CV4DC)</b>"
+  date: "December 14-15, 2026"
+  location: "Osaka, Japan"
+  conf-acro: CV4DC26
+  favicon: "img/2026/cv4dc_icon.png"
+  header-image: "img/2026/CV4DC_Website_Banner.png"
+  background: FFFFFF
 
 2025:
   title: "<b>Workshop on Computer Vision for Developing Countries (CV4DC)</b>"

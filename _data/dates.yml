@@ -1,6 +1,33 @@
-current-year: 2025
+current-year: 2026
 previous-years:
+  - 2025
   - 2024
+
+2026:
+ - name: Paper Submission (Proceedings Track)
+   date: September 25, 2026
+   countdown: 2026/09/25 23:59:59 AOE
+   enabled: true
+ - name: Acceptance Notification (Proceedings Track)
+   date: October 20, 2026
+   countdown: 2026/10/20 23:59:59 AOE
+   enabled: true
+ - name: Camera-ready Submission (Proceedings Track)
+   date: November 06, 2026
+   countdown: 2026/11/06 23:59:59 AOE
+   enabled: true
+ - name: Paper Submission (Non-Proceedings Track)
+   date: October 30, 2026
+   countdown: 2026/10/30 23:59:59 AOE
+   enabled: true
+ - name: Acceptance Notification (Non-Proceedings Track)
+   date: November 20, 2026
+   countdown: 2026/11/20 23:59:59 AOE
+   enabled: true
+ - name: Workshop & Mentoring event
+   date: December 14-15, 2026
+   countdown: 2026/12/14 23:59:59 AOE
+   enabled: true
 
 2025:
  - name: Paper Submission (Proceedings Track)

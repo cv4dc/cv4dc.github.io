@@ -1,3 +1,47 @@
+2026:
+  - name: "Ming-Hsuan Yang"
+    title: "Title: TBA"
+    abstract: "Abstract: TBA"
+    bio: "Ming-Hsuan Yang is a Professor at the University of California, Merced, and a Research Scientist at Google DeepMind, working on visual tracking, recognition, generation, and robust vision models."
+    prez: In Person
+    url: https://faculty.ucmerced.edu/mhyang/
+    order: 1
+    index: 1
+  - name: "Angela Yao"
+    title: "Title: TBA"
+    abstract: "Abstract: TBA"
+    bio: "Angela Yao is a Dean's Chair Associate Professor at the National University of Singapore, working on human-centric vision and video understanding for contextual AI systems in real-world settings."
+    prez: In Person
+    url: https://www.comp.nus.edu.sg/~ayao/
+    order: 2
+    index: 2
+  - name: "Duong Nguyen Vu"
+    title: "Title: TBA"
+    abstract: "Abstract: TBA"
+    bio: "Duong Nguyen Vu is Vice Provost of Graduate Education at VinUniversity, with research spanning human-centric AI, multi-agent systems, aviation computer vision, generative adversarial learning, and explainable few-shot learning."
+    prez: In Person
+    url: https://vinuni.edu.vn/people/duong-nguyen-vu-2/
+    order: 3
+    index: 3
+  - name: "Nguyen Phi Le"
+    title: "Title: TBA"
+    abstract: "Abstract: TBA"
+    bio: "Nguyen Phi Le is an Associate Professor at Hanoi University of Science and Technology and Acting Director of AI4LIFE, HUST, working on AI for environmental science, climate change, and smart healthcare."
+    prez: In Person
+    url: https://ai4life.hust.edu.vn/lenp/
+    order: 4
+    index: 4
+# Awaiting confirmation - uncomment once the talk is confirmed.
+#  - name: "Sai-Kit Yeung"
+#    title: "Title: TBA"
+#    abstract: "Abstract: TBA"
+#    bio: "Sai-Kit Yeung is a Professor at the Hong Kong University of Science and Technology, working on 3D vision, graphics, and AI systems for challenging environments."
+#    prez: In Person
+#    image: img/2024/people/saikit.png
+#    url: https://www.saikit.org/
+#    order: 5
+#    index: 5
+
 2025:
   - name: "Lorenzo Torresani"
     title: "Title: TBA"

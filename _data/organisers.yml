@@ -23,13 +23,14 @@
       affiliation: La Rochelle Université, 🇫🇷 & Cambodia Academy of Digital Technology, 🇰🇭
       url: https://scholar.google.com/citations?user=xyl99EYAAAAJ&hl=en
       image: img/2025/people/vannkinh.jpg
-    # TODO: replace the placeholder image with a real photo and add the homepage url
     - name: Ngan Le
       affiliation: University of Arkansas, 🇺🇸
-      image: img/2026/people/placeholder.png
+      url: https://scholar.google.com/citations?user=8ck0k_UAAAAJ&hl=en
+      image: img/2026/people/le.jpg
     - name: Trong Thang Pham
       affiliation: University of Arkansas, 🇺🇸
-      image: img/2026/people/placeholder.png
+      url: https://scholar.google.com/citations?user=SwR0T0UAAAAJ&hl=en
+      image: img/2026/people/pham.jpg
     - name: Tu Vo
       affiliation: KC Machine Learning Lab (ML2), 🇰🇷
       url: https://scholar.google.com/citations?user=MMz9pyEAAAAJ&hl=en
@@ -39,8 +40,9 @@
       affiliation: Nagoya University, 🇯🇵
       image: img/2026/people/trung.jpg
     - name: Chan Y. Park
+      url: https://scholar.google.com/citations?user=4j9mHwYAAAAJ&hl=en
       affiliation: KC Machine Learning Lab (ML2), 🇰🇷
-      image: img/2026/people/placeholder.png
+      image: img/2026/people/park.jpg
 
 2025:
  - section:

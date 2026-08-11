@@ -48,7 +48,8 @@ We offer two submission tracks:
 - Suitable for researchers seeking community feedback, visibility, and collaboration opportunities on evolving or recently completed work.
 
 ## Submission Guidelines
-- All submissions must be uploaded via OpenReview. The submission portals for both tracks will be announced here shortly.
+- Submission portals: [**Proceedings Track**](https://openreview.net/group?id=afcv.org/ACCV/2026/Workshop/CV4DC_Proceedings_Track) and [**Non-Proceedings Track**](https://openreview.net/group?id=afcv.org/ACCV/2026/Workshop/CV4DC_Non-Proceedings_Track)
+- All submissions must be uploaded via OpenReview.
 - Both tracks follow the ACCV 2026 paper format. The LNCS style files and the author kit are available via the [ACCV 2026 Author Guidelines](https://accv2026.org/submissions/author-guidelines/). References do not count towards the page limit.
 - Reviews will be double-blind. All accepted papers will be presented in a poster session, and a select number will be chosen for oral presentations.
 

@@ -13,8 +13,8 @@ previous-years:
    countdown: 2026/10/20 23:59:59 AOE
    enabled: true
  - name: Camera-ready Submission (Proceedings Track)
-   date: November 06, 2026
-   countdown: 2026/11/06 23:59:59 AOE
+   date: October 25, 2026
+   countdown: 2026/10/25 23:59:59 AOE
    enabled: true
  - name: Paper Submission (Non-Proceedings Track)
    date: October 30, 2026
@@ -25,7 +25,7 @@ previous-years:
    countdown: 2026/11/20 23:59:59 AOE
    enabled: true
  - name: Workshop & Mentoring event
-   date: December 14-15, 2026
+   date: December 14, 2026
    countdown: 2026/12/14 23:59:59 AOE
    enabled: true
 

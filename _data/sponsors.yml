@@ -1,3 +1,15 @@
+2026:
+ - section:
+   name: Sponsor
+   company:
+    - name: Artificial Intelligence Journal (AIJ)
+      logo: img/2026/sponsors/aij.jpg
+      url: https://aij.ijcai.org/
+      height: 25em
+      width: 80%
+      mdsize: 8
+      index: 1
+
 2024:
  - section:
    name: Startup Sponsor

@@ -7,7 +7,7 @@ title: Schedule
 published: false
 ---
 
-<p>The workshop takes place on one of the ACCV 2026 workshop days, December 14-15, 2026, in Osaka. The exact day and room are assigned by the conference and will be posted here as soon as they are confirmed.</p>
+<p>The workshop is a full-day event on December 14, 2026, in Osaka. The room is assigned by the conference and will be posted here once confirmed.</p>
 
 <p>The program below is preliminary and subject to change.</p>
 

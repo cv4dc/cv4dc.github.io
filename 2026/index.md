@@ -11,7 +11,7 @@ background: ADD0B3
 favicon: "img/2026/cv4dc_icon.png"
 ---
 
-The 3rd Workshop on Computer Vision for Developing Countries (CV4DC) will be held in-person **in conjunction with ACCV 2026 in Osaka, Japan** on **December 14-15, 2026** (exact day to be assigned by the conference).
+The 3rd Workshop on Computer Vision for Developing Countries (CV4DC) will be held in-person **in conjunction with ACCV 2026 in Osaka, Japan** on **December 14, 2026**.
 
 We invite students and researchers from developing countries, regardless of their current location, to submit their work to the 3rd Workshop on Computer Vision for Developing Countries (CV4DC). The workshop aims to highlight research that is either conducted in or particularly relevant to developing regions, spanning new ideas, ongoing projects, practical applications, and previously published work (within the last year).
 
@@ -27,5 +27,7 @@ The full day brings together invited talks, oral and poster presentations, the c
 - [Challenge]({{site.url}}/2026/challenge)
 - [Important Dates]({{site.url}}/2026/dates)
 - [Keynote Speakers]({{site.url}}/2026/keynotes)
+
+CV4DC 2026 is supported by the [Artificial Intelligence Journal (AIJ)](https://aij.ijcai.org/).
 
 **Contact:** [cv4dc@googlegroups.com](mailto:cv4dc@googlegroups.com)

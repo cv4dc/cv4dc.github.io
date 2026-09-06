@@ -1,0 +1,37 @@
+{% assign org = site.data.org %}
+{% assign workshop_year = site.data.cv4dc.current-year %}
+
+<footer class="org-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <p class="org-footer-title">{{ org.name }}</p>
+        <p class="org-footer-text">{{ org.tagline }}</p>
+      </div>
+
+      <div class="col-md-3">
+        <p class="org-footer-title">Organization</p>
+        <ul class="org-footer-list">
+          {% for nav in org.nav %}
+          <li><a href="{{site.url}}/{{ nav.url }}">{{ nav.title }}</a></li>
+          {% endfor %}
+          <li><a href="{{site.url}}/{{ workshop_year }}/">CV4DC {{ workshop_year }} Workshop</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-4">
+        <p class="org-footer-title">Registration</p>
+        <ul class="org-footer-list org-footer-legal">
+          {% if org.has-501c3 %}<li>501(c)(3) non-profit organization</li>{% endif %}
+          <li>Entity No. {{ org.entity-number }}</li>
+          <li>EIN {{ org.ein }}</li>
+          <li><a href="mailto:{{ org.email }}">{{ org.email }}</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="org-footer-bottom">
+      &copy; {{ 'now' | date: "%Y" }} {{ org.name }}. All rights reserved.
+    </div>
+  </div>
+</footer>

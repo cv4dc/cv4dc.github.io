@@ -1,0 +1,143 @@
+# Data for the CV4DC non-profit organization site, which is the root of
+# cv4dc.github.io. This file is only read by the org_* layouts/includes and does
+# not affect the workshop year sites (2024/, 2025/, 2026/).
+
+name: "Computer Vision for Developing Countries"
+short-name: "CV4DC"
+tagline: "Fostering and supporting research in all aspects of computer vision for developing countries."
+mission: "Computer Vision for Developing Countries is a non-profit organization that fosters and supports research in all aspects of computer vision for developing countries."
+
+# Legal identifiers
+entity-number: "B20250147416"
+ein: "39-2483919"
+founded: "March 2025"
+founded-year: "2025"
+
+# Federal tax-exempt status. Set has-501c3 to false to remove every
+# tax-deductibility statement from the site at once.
+has-501c3: true
+tax-status: "Recognized by the Internal Revenue Service as a tax-exempt charitable organization under Section 501(c)(3) of the Internal Revenue Code."
+tax-deductible-note: "Contributions are tax-deductible to the extent allowed by law."
+
+# Online giving link. Leave empty until a donation page is live; the Support
+# page then asks donors to email us for instructions instead of showing a
+# broken button.
+donate-url: ""
+
+email: "cv4dc@googlegroups.com"
+
+# The workshop series lives under /<year>/ on this same domain. Links to it are
+# built from site.data.cv4dc.current-year, so they follow the current edition
+# without editing this file.
+
+logo: "img/2026/cv4dc_icon.png"
+favicon: "img/2026/cv4dc_icon.png"
+
+# Top-level navigation. The organization site is the root of cv4dc.github.io;
+# the workshop editions stay at /2024/, /2025/, /2026/.
+nav:
+  - title: About
+    url: about
+  - title: Programs
+    url: programs
+  - title: Support Us
+    url: support
+  - title: Contact
+    url: contact
+
+# How donors can give today. Bank details are deliberately not published here —
+# donors email us and we send them directly.
+giving:
+  - title: "Check or bank transfer"
+    text: "Email us and we will send our mailing address and bank transfer details, along with a written acknowledgment once your gift arrives."
+  - title: "Employer matching gifts"
+    text: "Many employers match charitable donations. Use our EIN to look us up in your company's giving portal, and email us if your program needs any additional documentation."
+  - title: "Sponsorship invoice"
+    text: "Organizations sponsoring a workshop are invoiced directly. Email us and we will send the current sponsorship information and an invoice."
+
+# What the organization does. Shown on the home page.
+pillars:
+  - icon: "fas fa-microscope"
+    title: Research
+    text: "We create venues where work on computer vision under real-world constraints — limited compute, scarce labeled data, low-cost sensors, underserved languages — is reviewed, presented and published."
+  - icon: "fas fa-user-graduate"
+    title: Mentorship
+    text: "We pair junior researchers in developing regions with senior members of the computer vision community for feedback on their research, their writing and their careers."
+  - icon: "fas fa-globe-asia"
+    title: Access
+    text: "We work to lower the barriers — cost, visas, distance, networks — that keep researchers from developing countries out of the international computer vision community."
+  - icon: "fas fa-users"
+    title: Community
+    text: "We connect students, researchers and practitioners across developing regions with each other and with the wider field, so that collaborations outlast any single event."
+
+# Programs run by the organization.
+programs:
+  - name: "CV4DC Workshop"
+    period: "Annual, since 2024"
+    text: "Our flagship program: a full-day workshop co-located with a major computer vision conference, featuring invited talks, oral and poster presentations, a panel discussion and a mentoring session."
+    link: "https://cv4dc.github.io/"
+    link-text: "Visit the workshop site"
+  - name: "CV4DC Challenge"
+    period: "Introduced in 2026"
+    text: "A community challenge on resource-constrained computer vision for developing-region applications, with results presented at the annual workshop."
+    link: "https://cv4dc.github.io/2026/challenge"
+    link-text: "See the 2026 challenge"
+  - name: "Mentoring Session"
+    period: "Part of every edition"
+    text: "A dedicated session at each workshop where junior researchers receive one-on-one feedback on their work and career paths from senior researchers in the field."
+    link: "https://cv4dc.github.io/2026/"
+    link-text: "See the 2026 program"
+
+# Past and upcoming editions of the workshop.
+editions:
+  - year: "2026"
+    title: "3rd CV4DC Workshop"
+    venue: "in conjunction with ACCV 2026"
+    location: "Osaka, Japan"
+    date: "December 14, 2026"
+    url: "https://cv4dc.github.io/2026/"
+    status: upcoming
+  - year: "2025"
+    title: "2nd CV4DC Workshop"
+    venue: "in conjunction with ICCV 2025"
+    location: "Honolulu, Hawaii, USA"
+    date: "October 19, 2025"
+    url: "https://cv4dc.github.io/2025/"
+    status: past
+  - year: "2024"
+    title: "1st CV4DC Workshop"
+    venue: "in conjunction with ACCV 2024"
+    location: "Hanoi, Vietnam"
+    date: "December 8, 2024"
+    url: "https://cv4dc.github.io/2024/"
+    status: past
+
+# Ways to support the organization.
+support:
+  - title: Sponsor a workshop
+    text: "Sponsorship funds registration and travel support for presenting authors from developing countries, and keeps the workshop free to attend. We will work with you on how your organization is acknowledged."
+  - title: Volunteer your time
+    text: "We are always looking for reviewers, mentors, challenge organizers and invited speakers. If you work in computer vision and want to help, tell us what you would like to take on."
+  - title: Partner with us
+    text: "Universities, research labs and companies working in or with developing regions can partner with us on programs, datasets and local events."
+
+# Officers and advisors of the organization, shown on /about.
+show-board: true
+board:
+  - name: Tuan-Anh Vu
+    role: "Chief Executive Officer & Secretary"
+    affiliation: "UCLA"
+    image: img/2024/people/anh.png
+    url: https://tuananh1007.github.io/
+  - name: Quoc-Huy Tran
+    role: "Chief Financial Officer"
+    affiliation: "Retrocausal AI"
+    image: img/2024/people/huy.png
+    url: https://scholar.google.com.au/citations?user=8JbK0V8AAAAJ&hl=en
+
+advisors:
+  - name: Du Tran
+    role: "Advisory Board Member"
+    affiliation: "Google"
+    image: img/2024/people/du.png
+    url: https://dutran.github.io/

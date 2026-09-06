@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include org_head.html %}
+
+  <body class="org-body">
+    {% include org_nav.html %}
+
+    {% if page.hero %}
+    <section class="org-hero">
+      <div class="container">
+        <p class="org-hero-eyebrow">{% if site.data.org.has-501c3 %}501(c)(3) non-profit organization{% else %}Non-profit organization{% endif %}</p>
+        <h1 class="org-hero-title">{{ page.hero-title }}</h1>
+        <p class="org-hero-text">{{ page.hero-text }}</p>
+        {% if page.hero-cta-url %}
+        <a class="org-btn" href="{{ page.hero-cta-url }}">{{ page.hero-cta }}</a>
+        {% endif %}
+        {% if page.hero-cta2-url %}
+        <a class="org-btn org-btn-ghost" href="{{ page.hero-cta2-url }}">{{ page.hero-cta2 }}</a>
+        {% endif %}
+      </div>
+    </section>
+    {% else %}
+    <section class="org-pagehead">
+      <div class="container">
+        <h1 class="org-pagehead-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <p class="org-pagehead-text">{{ page.subtitle }}</p>
+        {% endif %}
+      </div>
+    </section>
+    {% endif %}
+
+    <main class="org-main">
+      <div class="container">
+        {{ content | smartify }}
+      </div>
+    </main>
+
+    {% include org_footer.html %}
+    {% include org_scripts.html %}
+  </body>
+</html>

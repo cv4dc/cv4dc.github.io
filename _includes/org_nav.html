@@ -1,0 +1,28 @@
+{% assign org = site.data.org %}
+{% assign workshop_year = site.data.cv4dc.current-year %}
+
+<nav class="navbar navbar-expand-lg navbar-dark org-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="{{site.url}}/">
+      <span class="org-brand-mark">{{ org.short-name }}</span>
+      <span class="org-brand-name">{{ org.name }}</span>
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#orgNavbar" aria-controls="orgNavbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-end" id="orgNavbar">
+      <ul class="navbar-nav">
+        {% for nav in org.nav %}
+        <li class="nav-item">
+          <a class="nav-link{% if page.url contains nav.url %} active{% endif %}" href="{{site.url}}/{{ nav.url }}">{{ nav.title }}</a>
+        </li>
+        {% endfor %}
+        <li class="nav-item">
+          <a class="nav-link org-nav-cta" href="{{site.url}}/{{ workshop_year }}/">CV4DC {{ workshop_year }} Workshop</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

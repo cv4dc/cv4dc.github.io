@@ -1,0 +1,503 @@
+/* Styles for the CV4DC non-profit organization site (the root of cv4dc.github.io).
+   Layered on top of Bootstrap 4. Scoped to .org-* classes so that nothing
+   here affects the workshop year sites, which use css/2024_style.css. */
+
+:root {
+  --org-ink: #16241f;
+  --org-body: #3d4a45;
+  --org-muted: #5a6763;
+  --org-green: #1f6f5c;
+  --org-green-dark: #164e42;
+  --org-sage: #add0b3;
+  --org-sand: #f5f3ee;
+  --org-line: #e2e5e0;
+}
+
+/* Base
+-------------------------------------------------- */
+.org-body {
+  color: #3d4a45;
+  background: #fff;
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  margin-bottom: 0;
+}
+
+.org-body h1,
+.org-body h2,
+.org-body h3,
+.org-body h4 {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  color: #16241f;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+  text-align: left;
+}
+
+.org-body a {
+  color: #1f6f5c;
+}
+
+.org-body a:hover {
+  color: #164e42;
+}
+
+.org-body p {
+  text-align: left;
+}
+
+/* Navbar
+-------------------------------------------------- */
+.org-navbar {
+  background: #16241f;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+
+.org-navbar .navbar-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+.org-brand-mark {
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: #add0b3;
+}
+
+.org-brand-name {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.org-navbar .nav-link {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.95rem;
+  padding-left: 0.9rem;
+  padding-right: 0.9rem;
+}
+
+.org-navbar .nav-link:hover,
+.org-navbar .nav-link.active {
+  color: #fff;
+}
+
+.org-navbar .org-nav-cta {
+  color: #add0b3;
+}
+
+/* Hero
+-------------------------------------------------- */
+.org-hero {
+  background: #16241f;
+  color: #fff;
+  padding: 5rem 0 5.5rem;
+  border-bottom: 6px solid #add0b3;
+}
+
+.org-hero-eyebrow {
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.75rem;
+  color: #add0b3;
+  margin-bottom: 1rem;
+}
+
+.org-hero-title {
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 2.9rem;
+  line-height: 1.15;
+  max-width: 20ch;
+  margin-bottom: 1.4rem;
+}
+
+.org-hero-text {
+  font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.82);
+  max-width: 62ch;
+  margin-bottom: 2rem;
+}
+
+/* Simple page header
+-------------------------------------------------- */
+.org-pagehead {
+  background: #f5f3ee;
+  border-bottom: 1px solid #e2e5e0;
+  padding: 3.2rem 0 3rem;
+}
+
+.org-pagehead-title {
+  font-size: 2.3rem;
+  margin-bottom: 0.6rem;
+}
+
+.org-pagehead-text {
+  font-size: 1.1rem;
+  color: #5a6763;
+  max-width: 66ch;
+  margin-bottom: 0;
+}
+
+/* Main
+-------------------------------------------------- */
+.org-main {
+  padding: 3.5rem 0 4.5rem;
+}
+
+.org-main > .container > h2 {
+  font-size: 1.6rem;
+  margin-top: 2.6rem;
+  margin-bottom: 1rem;
+}
+
+.org-main > .container > h2:first-child {
+  margin-top: 0;
+}
+
+.org-main > .container > p {
+  max-width: 72ch;
+}
+
+.org-lede {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #2c3a35;
+  max-width: 70ch;
+}
+
+.org-prose {
+  max-width: 72ch;
+}
+
+/* Mission statement callout
+-------------------------------------------------- */
+.org-mission {
+  border-left: 5px solid #1f6f5c;
+  background: #f5f3ee;
+  padding: 1.6rem 1.8rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.org-mission p {
+  font-size: 1.15rem;
+  color: #16241f;
+  margin-bottom: 0;
+}
+
+/* Cards
+-------------------------------------------------- */
+.org-card {
+  border: 1px solid #e2e5e0;
+  border-radius: 10px;
+  padding: 1.6rem;
+  height: 100%;
+  background: #fff;
+  transition: box-shadow 0.15s ease-in-out;
+}
+
+.org-card:hover {
+  box-shadow: 0 6px 22px rgba(22, 36, 31, 0.08);
+}
+
+.org-card-icon {
+  color: #1f6f5c;
+  font-size: 1.4rem;
+  margin-bottom: 0.9rem;
+}
+
+.org-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.6rem;
+}
+
+.org-card p {
+  font-size: 0.95rem;
+  color: #5a6763;
+  margin-bottom: 0;
+}
+
+.org-card-grid {
+  margin-top: 1.5rem;
+}
+
+.org-card-grid > [class^="col-"] {
+  margin-bottom: 1.6rem;
+}
+
+/* People
+-------------------------------------------------- */
+.org-person-grid {
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.org-person-grid > [class^="col-"] {
+  margin-bottom: 1.8rem;
+}
+
+.org-person {
+  text-align: center;
+}
+
+.org-person img {
+  object-fit: cover;
+  object-position: center;
+  height: 9em;
+  width: 9em;
+  border-radius: 50%;
+  margin-bottom: 0.9rem;
+  background: #f5f3ee;
+}
+
+.org-person p {
+  text-align: center;
+  margin-bottom: 0.1rem;
+}
+
+.org-person-name {
+  font-weight: 600;
+  color: #16241f;
+}
+
+.org-person-name a {
+  color: #16241f;
+}
+
+.org-person-name a:hover {
+  color: #1f6f5c;
+  text-decoration: none;
+}
+
+.org-person-role {
+  font-size: 0.9rem;
+  color: #1f6f5c;
+}
+
+.org-person-affil {
+  font-size: 0.88rem;
+  color: #5a6763;
+}
+
+.org-subhead {
+  font-size: 1.15rem;
+  margin-top: 1.6rem;
+}
+
+/* Edition list
+-------------------------------------------------- */
+.org-edition {
+  display: flex;
+  gap: 1.4rem;
+  padding: 1.2rem 0;
+  border-top: 1px solid #e2e5e0;
+  align-items: baseline;
+}
+
+.org-edition:last-child {
+  border-bottom: 1px solid #e2e5e0;
+}
+
+.org-edition-year {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: #1f6f5c;
+  min-width: 4.5rem;
+}
+
+.org-edition-body h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.2rem;
+}
+
+.org-edition-body p {
+  font-size: 0.95rem;
+  color: #5a6763;
+  margin-bottom: 0.3rem;
+}
+
+.org-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: #add0b3;
+  color: #16241f;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+
+/* Facts table
+-------------------------------------------------- */
+.org-facts {
+  width: 100%;
+  max-width: 34rem;
+  margin: 1.5rem 0;
+}
+
+.org-facts th,
+.org-facts td {
+  border-top: 1px solid #e2e5e0;
+  padding: 0.7rem 0.2rem;
+  font-size: 0.98rem;
+  vertical-align: top;
+}
+
+.org-facts th {
+  font-weight: 600;
+  color: #16241f;
+  width: 45%;
+}
+
+.org-facts td {
+  color: #3d4a45;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Buttons
+-------------------------------------------------- */
+.org-btn {
+  display: inline-block;
+  background: #add0b3;
+  color: #16241f;
+  font-weight: 600;
+  padding: 0.7rem 1.5rem;
+  border-radius: 6px;
+  margin-right: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+
+.org-btn:hover {
+  background: #c3ddc7;
+  color: #16241f;
+  text-decoration: none;
+}
+
+.org-btn-ghost {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+}
+
+.org-btn-ghost:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.org-btn-solid {
+  background: #1f6f5c;
+  color: #fff;
+}
+
+.org-btn-solid:hover {
+  background: #164e42;
+  color: #fff;
+}
+
+/* Call-to-action strip
+-------------------------------------------------- */
+.org-cta {
+  background: #f5f3ee;
+  border: 1px solid #e2e5e0;
+  border-radius: 10px;
+  padding: 2rem;
+  margin-top: 3rem;
+}
+
+.org-cta h2 {
+  margin-top: 0 !important;
+  font-size: 1.4rem;
+}
+
+.org-cta p {
+  color: #5a6763;
+  max-width: 62ch;
+}
+
+/* Footer
+-------------------------------------------------- */
+.org-footer {
+  position: static;
+  height: auto;
+  line-height: 1.65;
+  background: #16241f;
+  color: rgba(255, 255, 255, 0.72);
+  padding: 3rem 0 1.5rem;
+  font-size: 0.92rem;
+}
+
+.org-footer-title {
+  color: #fff;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
+
+.org-footer-text {
+  max-width: 40ch;
+}
+
+.org-footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.org-footer-list a {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.org-footer-list a:hover {
+  color: #add0b3;
+  text-decoration: none;
+}
+
+.org-footer-legal {
+  font-variant-numeric: tabular-nums;
+}
+
+.org-footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  margin-top: 2rem;
+  padding-top: 1.2rem;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* Small screens
+-------------------------------------------------- */
+@media (max-width: 767px) {
+  .org-hero {
+    padding: 3.2rem 0 3.5rem;
+  }
+
+  .org-hero-title {
+    font-size: 2.1rem;
+  }
+
+  .org-brand-name {
+    display: none;
+  }
+
+  .org-edition {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+}
+
+/* Program card meta line
+-------------------------------------------------- */
+.org-card-meta {
+  font-size: 0.85rem;
+  color: #1f6f5c;
+  margin-bottom: 0.6rem;
+}

@@ -13,6 +13,7 @@ endif %}
     <tr height="40px">
         <th style="border: none">{{ deadline.name }}</th>
         <td style="border: none">
+            {% if deadline.old-date %}<s style="color: red">{{ deadline.old-date }}</s><br />{% endif %}
             {%if deadline.enabled %}{{ deadline.date }} {% else %}
             <s style="color: red">{{ deadline.date }}</s>{% endif %}
         </td>

@@ -59,7 +59,7 @@ All deadlines are 23:59 Anywhere on Earth (AoE).
 
 ### 1. Proceedings Track
 (For papers to be published in the official ACCV 2026 Workshop Proceedings)
-- Submission Deadline: September 25th, 2026 (AOE)
+- Submission Deadline: <s>September 25th, 2026</s> **October 2nd, 2026 (AOE, extended)**
 - Author Notification: October 20th, 2026 (AOE)
 - Camera-Ready Deadline: October 25th, 2026 (AOE)
 - Workshop Date: December 14th, 2026

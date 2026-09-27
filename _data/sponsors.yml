@@ -9,6 +9,19 @@
       width: 80%
       mdsize: 8
       index: 1
+ - section:
+   name: Sponsor
+   company:
+    - name: KC
+      logo: img/2026/sponsors/kc.png
+      url: https://www.kc-ml2.com/en
+      mdsize: 3
+      index: 1
+    - name: KC ML2
+      logo: img/2026/sponsors/kc_ml2.png
+      url: https://www.kc-ml2.com/en
+      mdsize: 7
+      index: 2
 
 2024:
  - section:

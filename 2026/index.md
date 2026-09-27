@@ -27,6 +27,6 @@ The full day brings together invited talks, oral and poster presentations, the c
 - [Important Dates]({{site.url}}/2026/dates)
 - [Keynote Speakers]({{site.url}}/2026/keynotes)
 
-CV4DC 2026 is supported by the [Artificial Intelligence Journal (AIJ)](https://aij.ijcai.org/).
+CV4DC 2026 is supported by the [Artificial Intelligence Journal (AIJ)](https://aij.ijcai.org/) and [KC ML2](https://www.kc-ml2.com/en).
 
 **Contact:** [cv4dc@googlegroups.com](mailto:cv4dc@googlegroups.com)

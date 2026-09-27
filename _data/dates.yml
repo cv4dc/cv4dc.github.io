@@ -5,9 +5,9 @@ previous-years:
 
 2026:
  - name: Paper Submission (Proceedings Track)
-   date: October 2, 2026
+   date: October 9, 2026
    old-date: September 25, 2026
-   countdown: 2026/10/02 23:59:59 AOE
+   countdown: 2026/10/09 23:59:59 AOE
    enabled: true
  - name: Acceptance Notification (Proceedings Track)
    date: October 20, 2026
